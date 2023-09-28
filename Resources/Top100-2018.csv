@@ -1,0 +1,101 @@
+,song_id,song_name,album,artist,duration(ms),release_date,acousticness,danceability,energy,insturmentalness,key,liveness,loudness,mode,spechiness,tempo,time_signature,valence,popularity,binary_popularity
+0,2qT1uLXPVPzGgFOx4jtEuo,no tears left to cry,Sweetener,Ariana Grande,205920,2018-08-17,0.04,0.699,0.713,3.11e-06,9,0.294,-5.507,0,0.0594,121.993,4,0.354,78,1
+1,0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),lovely (with Khalid),Billie Eilish,200185,2018-04-19,0.934,0.351,0.296,0.0,4,0.095,-10.109,0,0.0333,115.284,4,0.12,89,1
+2,09mEdoA6zrmBPgTEN5qXmN,Call Out My Name,"My Dear Melancholy,",The Weeknd,228373,2018-03-30,0.17,0.461,0.593,0.0,1,0.307,-4.954,1,0.0356,134.17,3,0.175,87,1
+3,7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,214846,2018-04-06,0.037,0.791,0.862,2.19e-05,9,0.0814,-3.24,0,0.11,123.994,4,0.592,86,1
+4,5OCJzvD7sykQEKHH7qAC3C,God is a woman,Sweetener,Ariana Grande,197546,2018-08-17,0.0233,0.602,0.658,6e-05,1,0.237,-5.934,1,0.0558,145.031,4,0.268,78,1
+5,6IPwKM3fUUzlElbvKw2sKl,we fell in love in october,we fell in love in october / October Passed Me By,girl in red,184153,2018-11-21,0.113,0.566,0.366,0.181,7,0.155,-12.808,1,0.028,129.96,4,0.237,86,1
+6,6NFyWDv5CjfwuzoCkw47Xf,Delicate,reputation,Taylor Swift,232253,2017-11-10,0.216,0.75,0.404,0.000357,9,0.0911,-10.178,0,0.0682,95.045,4,0.0499,86,1
+7,6DCZcSspjsKoFjzjrWoCdn,God's Plan,Scorpion,Drake,198973,2018-06-29,0.0332,0.754,0.449,8.29e-05,7,0.552,-9.211,1,0.109,77.169,4,0.357,85,1
+8,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,ASTROWORLD,Travis Scott,312820,2018-08-03,0.00513,0.834,0.73,0.0,8,0.124,-3.714,1,0.222,155.008,4,0.446,85,1
+9,3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),Black Panther The Album Music From And Inspired By,Kendrick Lamar,232186,2018-02-09,0.0605,0.698,0.633,0.000194,8,0.0926,-4.946,1,0.0597,96.924,4,0.552,85,1
+10,0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),beerbongs & bentleys,Post Malone,218146,2018-04-27,0.124,0.585,0.52,7.01e-05,5,0.131,-6.136,0,0.0712,159.801,4,0.129,85,1
+11,285pBltuF7vW8TeWk8hdRR,Lucid Dreams,Goodbye & Good Riddance,Juice WRLD,239835,2018-12-10,0.349,0.511,0.566,0.0,6,0.34,-7.23,0,0.2,83.903,4,0.218,84,1
+12,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (with Metro Boomin),Without Warning,21 Savage,172800,2017-10-30,0.149,0.88,0.428,5.05e-05,9,0.114,-8.28,1,0.206,100.007,4,0.333,84,1
+13,0EcQcdcbQeVJn9fknj44Be,I Like Me Better,I met you when I was 18. (the playlist),Lauv,197436,2018-05-31,0.534,0.753,0.505,2.58e-06,9,0.104,-7.621,1,0.255,91.972,4,0.419,83,1
+14,0JP9xo3adEtGSdUEISiszL,Moonlight,?,XXXTENTACION,135090,2018-03-16,0.556,0.921,0.537,0.00404,9,0.102,-5.723,0,0.0804,128.009,4,0.711,83,1
+15,2FY7b99s15jUprqC0M5NCT,Natural,Origins (Deluxe),Imagine Dragons,189466,2018-11-09,0.217,0.704,0.611,0.0,2,0.0812,-6.112,1,0.0409,100.0,4,0.22,82,1
+16,7dt6x5M1jzdTEt8oCbisTK,Better Now,beerbongs & bentleys,Post Malone,231266,2018-04-27,0.331,0.68,0.578,0.0,10,0.135,-5.804,1,0.04,145.038,4,0.341,82,1
+17,6vN77lE9LK6HP2DewaN6HZ,Yes Indeed,Harder Than Ever,Lil Baby,142273,2018-05-18,0.0355,0.963,0.346,0.0,5,0.108,-9.309,0,0.53,119.957,4,0.562,82,1
+18,2BgEsaKNfHUdlh97KmvFyo,2002,Speak Your Mind (Deluxe),Anne-Marie,186986,2018-04-27,0.0372,0.697,0.683,0.0,1,0.137,-2.881,0,0.117,96.133,4,0.603,82,1
+19,6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,DAMN.,Kendrick Lamar,213400,2017-04-14,0.264,0.8,0.585,0.0,10,0.153,-7.343,1,0.0924,126.058,4,0.779,84,1
+20,3CA9pLiwRIGtUBiMjbZmRw,Nice For What,Scorpion,Drake,210746,2018-06-29,0.0891,0.585,0.909,9.7e-05,8,0.119,-6.474,1,0.0707,93.372,4,0.758,81,1
+21,7vGuf3Y35N4wmASOKLUVVU,Silence,Silence,Marshmello,180822,2017-08-11,0.256,0.52,0.761,4.96e-06,4,0.17,-3.093,1,0.0853,141.971,4,0.286,81,1
+22,3ee8Jmje8o58CHK66QrVC2,SAD!,?,XXXTENTACION,166605,2018-03-16,0.258,0.74,0.613,0.00372,8,0.123,-4.88,1,0.145,75.023,4,0.473,82,1
+23,52okn5MNA47tk87PeZJLEL,Let You Down,Perception,NF,212120,2017-10-06,0.312,0.662,0.714,0.0,5,0.179,-5.68,0,0.121,147.997,4,0.464,81,1
+24,09IStsImFySgyp0pIQdqAc,The Middle,The Middle,Zedd,184732,2018-01-23,0.171,0.753,0.657,0.0,7,0.112,-3.061,1,0.0449,107.01,4,0.437,80,1
+25,76cy1WJvNGJTj78UqeA5zr,IDGAF,Dua Lipa (Deluxe),Dua Lipa,217946,2017-06-02,0.0403,0.836,0.544,0.0,7,0.0824,-5.975,1,0.0943,97.028,4,0.51,80,1
+26,0TlLq3lA83rQOYtrqBqSct,Nonstop,Scorpion,Drake,238614,2018-06-29,0.0165,0.912,0.412,0.0126,7,0.104,-8.074,1,0.123,154.983,4,0.423,80,1
+27,0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,In My Mind,Dynoro,184560,2018-06-08,0.176,0.694,0.77,1.1e-05,6,0.118,-5.335,1,0.149,125.905,4,0.163,80,1
+28,3EPXxR3ImUwfayaurPi3cm,Be Alright,Be Alright,Dean Lewis,196373,2018-06-29,0.697,0.553,0.586,0.0,11,0.0813,-6.319,1,0.0362,126.684,4,0.443,79,1
+29,1xzBco0xcoJEDXktl7Jxrr,Mo Bamba,MUDBOY,Sheck Wes,183906,2018-10-05,0.194,0.729,0.625,0.00986,4,0.248,-5.266,1,0.0315,146.034,4,0.261,79,1
+30,5k38wzpLb15YgncyWdTZE4,Him & I (with Halsey),The Beautiful & Damned,G-Eazy,268866,2017-12-15,0.0534,0.589,0.731,0.0,2,0.308,-6.343,1,0.0868,87.908,4,0.191,79,1
+31,21RzyxY3EFaxVy6K4RqaU9,Body,Body,Loud Luxury,163216,2017-10-27,0.0476,0.752,0.764,9.44e-05,1,0.0543,-4.399,1,0.038,121.958,4,0.582,79,1
+32,0tBbt8CrmxbjRP0pueQkyU,Wolves,Wolves,Selena Gomez,197993,2017-10-25,0.124,0.724,0.804,0.0,11,0.204,-4.614,0,0.0448,124.987,4,0.306,79,1
+33,1j6xOGusnyXq3l6IryKF3G,Déjala Que Vuelva (feat. Manuel Turizo),Ubuntu,Piso 21,220116,2018-05-11,0.0482,0.681,0.788,0.0,1,0.0753,-4.323,1,0.0785,170.019,4,0.839,79,1
+34,58q2HKrzhC3ozto2nDdN4z,I Like It,Invasion of Privacy,Cardi B,253390,2018-04-06,0.099,0.816,0.726,0.0,5,0.372,-3.998,0,0.129,136.048,4,0.65,79,1
+35,5bJ1DrEM4hNCafcDd1oxHx,Self Care,Swimming,Mac Miller,345133,2018-08-03,0.367,0.52,0.538,0.00187,1,0.119,-8.109,1,0.206,141.894,4,0.177,78,1
+36,3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),beerbongs & bentleys,Post Malone,221440,2018-04-27,0.546,0.75,0.56,0.0,8,0.111,-8.094,1,0.105,140.06,4,0.459,78,1
+37,3Vo4wInECJQuz9BIBMOu8i,Finesse - Remix; feat. Cardi B,Finesse (Remix) [feat. Cardi B],Bruno Mars,217288,2017-12-20,0.0185,0.704,0.859,0.0,5,0.0215,-4.877,0,0.0996,105.115,4,0.926,78,1
+38,08bNPGLD8AhKpnnERrAc6G,FRIENDS,FRIENDS,Marshmello,202620,2018-02-09,0.205,0.626,0.88,0.0,9,0.128,-2.384,0,0.0504,95.079,4,0.534,78,1
+39,63SevszngYpZOwf63o61K4,Nevermind,Nevermind,Dennis Lloyd,156600,2017-06-30,0.159,0.6,0.688,1.29e-05,5,0.409,-8.339,0,0.201,99.977,4,0.0793,78,1
+40,7AFASza1mXqntmGtbxXprO,changes,?,XXXTENTACION,121886,2018-03-16,0.883,0.669,0.308,0.0,11,0.0984,-10.068,1,0.029,64.934,4,0.52,78,1
+41,4ofwffwvvnbSkrMSCKQDaC,Shotgun,Staying at Tamara's,George Ezra,201287,2018-03-23,0.286,0.673,0.735,0.0,5,0.242,-4.733,1,0.0457,115.744,4,0.754,78,1
+42,48zFZh27QU5qsrBjn4C2FA,Vaina Loca,Aura,Ozuna,176133,2018-08-24,0.315,0.754,0.805,0.0,6,0.203,-4.249,1,0.0752,93.982,4,0.555,77,1
+43,5Gu0PDLN4YJeW75PpBSg9p,"Let Me Go (with Alesso, Florida Georgia Line & watt)","Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,174800,2017-09-08,0.0337,0.664,0.708,0.0,8,0.0841,-4.154,1,0.0474,103.07,4,0.742,77,1
+44,2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,Scorpion,Drake,217925,2018-06-29,0.0589,0.835,0.626,6e-05,1,0.396,-5.833,1,0.125,91.03,4,0.35,77,1
+45,2UVbBKQOdFAekPTRsnkzcf,Stir Fry,Culture II,Migos,190288,2018-01-26,0.00263,0.817,0.816,0.0,2,0.159,-5.402,1,0.269,181.982,4,0.508,76,1
+46,3V8UKqhEK5zBkBb6d6ub8i,Te Boté - Remix,Te Boté (Remix),Nio Garcia,417920,2018-04-13,0.542,0.903,0.675,1.28e-05,11,0.0595,-3.445,0,0.214,96.507,4,0.442,76,1
+47,4w8niZpiMy6qz1mntFA5uM,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,212500,2018-09-28,0.157,0.842,0.801,4.82e-06,8,0.0642,-4.167,0,0.228,95.881,4,0.617,76,1
+48,7BqHUALzNBTanL6OvsqmC1,Happier,Happier,Marshmello,214289,2018-08-17,0.191,0.687,0.792,0.0,5,0.167,-2.749,1,0.0452,100.011,4,0.671,75,1
+49,630sXRhIcfwr2e4RdNtjKN,Rewrite The Stars,Rewrite The Stars,Zac Efron,217440,2017-11-17,0.0716,0.684,0.619,0.0,10,0.122,-7.005,1,0.0386,125.046,4,0.284,76,1
+50,7uzmGiiJyRfuViKKK3lVmR,Mine,COSMIC,Bazzi,131064,2018-04-12,0.0161,0.71,0.789,2.77e-06,4,0.451,-3.874,1,0.0722,142.929,4,0.717,76,1
+51,0d2iYfpKoM0QCKvcLCkBao,Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,173799,2018-07-12,0.555,0.56,0.68,0.0,6,0.116,-7.648,0,0.321,89.391,4,0.319,75,1
+52,6n4U3TlzUGhdSFbUUhTvLP,Walk It Talk It,Culture II,Migos,276147,2018-01-26,0.0876,0.907,0.633,2.6e-06,2,0.106,-5.145,1,0.184,145.914,4,0.395,75,1
+53,5YUyW9opqNsMSEzzecZih1,X,Intimo,Nicky Jam,172854,2019-11-01,0.0338,0.594,0.749,0.00106,9,0.3,-5.298,0,0.056,179.968,4,0.694,75,1
+54,7y9iMe8SOB6z3NoHE2OfXl,Bad At Love,hopeless fountain kingdom (Deluxe),Halsey,181279,2017-06-02,0.0604,0.675,0.751,0.0,0,0.0893,-3.539,1,0.0296,118.384,4,0.612,75,1
+55,6wmAHw1szh5RCKSRjiXhPe,How Long,Voicenotes,Charlie Puth,200853,2018-05-11,0.211,0.845,0.561,3.49e-06,1,0.0383,-5.253,0,0.0778,109.974,4,0.811,75,1
+56,6CTWathupIiDs7U4InHnDA,Trip,Ella Mai,Ella Mai,213993,2018-10-12,0.225,0.477,0.61,0.0,11,0.107,-5.628,0,0.144,79.882,4,0.358,75,1
+57,45Egmo7icyopuzJN0oMEdk,Love Lies (with Normani),Love Lies (with Normani),Khalid,201707,2018-02-14,0.0956,0.708,0.648,0.0,6,0.134,-5.626,1,0.0449,143.955,4,0.338,75,1
+58,7iDa6hUg2VgEL1o1HjmfBn,Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,Bebe Rexha,163870,2017-08-11,0.047,0.643,0.783,0.0,10,0.083,-6.458,1,0.0856,154.084,4,0.579,75,1
+59,2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,Shawn Mendes,Shawn Mendes,211360,2018-05-25,0.0573,0.622,0.712,0.0,5,0.13,-7.321,1,0.066,140.025,4,0.487,74,0
+60,3TgMcrV32NUKjEG2ujn9eh,It's Not Living (If It's Not With You),A Brief Inquiry Into Online Relationships,The 1975,248335,2018-11-30,0.000254,0.618,0.837,0.000378,1,0.0618,-5.338,1,0.0304,121.227,4,0.526,74,0
+61,6KBYefIoo7KydImq1uUQlL,Bodak Yellow,Invasion of Privacy,Cardi B,223712,2018-04-06,0.0659,0.926,0.703,0.0,11,0.231,-6.337,0,0.103,125.022,4,0.485,74,0
+62,5CLGzJsGqhCEECcpnFQA8x,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,210772,2018-01-19,0.194,0.653,0.809,0.0,0,0.165,-4.057,1,0.0474,92.213,4,0.55,74,0
+63,1cS0TgbR263ey9jn0MwD2s,River (feat. Ed Sheeran),Revival,Eminem,221013,2017-12-15,0.142,0.748,0.749,0.0,8,0.0713,-5.916,0,0.516,90.09,4,0.659,73,0
+64,6HJ34Zyw6bg8yGm28AxLXf,Look Alive (feat. Drake),Simi,BlocBoy JB,181414,2018-05-04,0.00108,0.918,0.58,6.12e-05,10,0.106,-7.501,1,0.322,139.977,4,0.611,73,0
+65,6EGAfJaLUFzhS4zRBIEQ2J,You Make It Easy,Rearview Town,Jason Aldean,196800,2018-04-13,0.143,0.375,0.574,0.0,7,0.11,-5.305,1,0.0315,132.025,3,0.406,73,0
+66,4eWQlBRaTjPPUlzacqEeoQ,Never Be the Same,Camila,Camila Cabello,226973,2018-01-12,0.181,0.637,0.713,0.000637,0,0.137,-4.333,1,0.0747,129.923,4,0.243,73,0
+67,42fw0rxRO2xbesF6mJfd4Y,Tequila,Dan + Shay,Dan + Shay,196746,2018-06-22,0.0312,0.489,0.581,0.0,11,0.132,-5.731,1,0.0281,86.016,4,0.494,73,0
+68,4ggiDYAkJ7Yk8d5xOr7Xjo,Me Niego (feat. Ozuna & Wisin),Ahora,Reik,221653,2019-05-31,0.0505,0.777,0.782,0.0,0,0.64,-4.435,0,0.0907,94.023,4,0.773,73,0
+69,4NBTZtAt1F13VvlSKe6KTl,This Feeling,Sick Boy,The Chainsmokers,197946,2018-12-14,0.0558,0.575,0.571,0.0,1,0.0912,-7.906,1,0.0439,105.049,4,0.449,73,0
+70,6lOWoTqVnAWXchddtTH31W,Leave a Light On,Leave a Light On,Tom Walker,185863,2017-10-13,0.0153,0.586,0.624,1.78e-06,5,0.133,-5.946,1,0.113,68.976,4,0.267,72,0
+71,2RiBogNRfulkNf7fVbPOrJ,Saturday Sun,Nation of Two,Vance Joy,214720,2018-02-23,0.484,0.637,0.864,0.0,8,0.222,-4.381,1,0.0468,99.995,4,0.706,72,0
+72,6I0KEvFfWszVJiCy5hum4V,Let's Fall in Love for the Night,Blood Harmony,FINNEAS,190348,2019-10-04,0.802,0.737,0.408,0.0,5,0.171,-7.941,1,0.104,127.918,4,0.374,72,0
+73,5ZSl6gDoV6bPPxzmLeneV9,Rise,Blue,Jonas Blue,194407,2018-11-09,0.327,0.687,0.785,0.0,1,0.203,-4.65,1,0.0333,106.046,4,0.655,72,0
+74,4ylWMuGbMXNDgDd8lErEle,The Greatest Show,The Greatest Showman (Original Motion Picture Soundtrack),Various Artists,302146,2017-12-08,0.000239,0.417,0.824,0.0545,11,0.0725,-7.36,0,0.105,157.92,4,0.4,72,0
+75,4L9Ds4mpD3SuYoWwFUlv16,Simple,Can't Say I Ain't Country,Florida Georgia Line,185200,2019-02-15,0.0791,0.362,0.882,0.0,3,0.15,-3.717,1,0.0973,199.811,4,0.864,72,0
+76,5IaHrVsrferBYDm0bDyABy,Taste (feat. Offset),Taste (feat. Offset),Tyga,232959,2018-05-16,0.0236,0.884,0.559,0.0,0,0.101,-7.442,1,0.12,97.994,4,0.342,72,0
+77,0OI7AFifLSoGzpb8bdBLLV,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",Machine Gun Kelly,202804,2017-11-18,0.00413,0.653,0.718,0.0,3,0.0537,-5.232,0,0.213,82.034,4,0.216,72,0
+78,4kWO6O1BUXcZmaxitpVUwp,Jackie Chan,Jackie Chan,Tiësto,215759,2018-05-18,0.374,0.747,0.834,0.0,3,0.0586,-2.867,0,0.045,128.005,4,0.687,71,0
+79,514rhnksEwHUh6LxXsQ4Y9,Back To You,13 Reasons Why (Season 2),Selena Gomez,210240,2018-05-18,0.0984,0.6,0.683,1.26e-06,6,0.11,-6.271,1,0.0493,102.036,4,0.494,71,0
+80,6VrCmhRBFnuGKmtNfk4jDs,Spotlight,Spotlight,Marshmello,177600,2018-01-12,0.0145,0.546,0.822,0.0,7,0.742,-4.483,1,0.151,150.06,4,0.615,71,0
+81,6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),Solo (feat. Demi Lovato),Clean Bandit,222653,2018-05-17,0.0441,0.737,0.636,6.66e-05,11,0.35,-4.546,0,0.0437,105.005,4,0.565,71,0
+82,1LhMopPAallLeaeNutqbgS,Say Something (feat. Chris Stapleton),Man of the Woods,Justin Timberlake,278893,2018-02-02,0.103,0.707,0.632,1.09e-05,10,0.0841,-7.031,1,0.0789,97.04,4,0.372,71,0
+83,5cepAtqnEQ6yVG6088zMMu,Corazón (feat. Nego do Borel),F.A.M.E.,Maluma,184720,2018-05-18,0.328,0.722,0.738,1.47e-05,9,0.198,-6.073,0,0.247,198.075,4,0.748,71,0
+84,4wFjTWCunQFKtukqrNijEt,MotorSport,Culture II,Migos,303076,2018-01-26,0.0305,0.904,0.518,0.0,2,0.325,-5.32,1,0.183,137.996,4,0.188,71,0
+85,51rXHuKN8Loc4sUlKPODgH,"King's Dead (with Kendrick Lamar, Future & James Blake)","King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,229670,2018-01-12,0.000813,0.645,0.705,0.0,1,0.128,-5.008,1,0.299,137.133,4,0.376,71,0
+86,1ZAyjvIk9YiD76yYy0TEG6,Plug Walk,The World Is Yours,Rich The Kid,175229,2018-03-30,0.202,0.876,0.519,0.0,11,0.108,-6.531,1,0.143,94.981,4,0.158,71,0
+87,1M6SuEJZJkZf2S419vIPkB,FEFE,DUMMY BOY,6ix9ine,179404,2018,0.088,0.931,0.387,0.0,1,0.136,-9.127,1,0.412,125.978,4,0.375,71,0
+88,6KuqAtoeVzxAYOaMveLNpH,Dura,Dura,Daddy Yankee,200480,2018-01-18,0.174,0.783,0.84,0.0,1,0.412,-3.416,1,0.051,95.001,4,0.839,71,0
+89,0CZ8lquoTX2Dkg7Ak2inwA,1950,1950,King Princess,225133,2018-02-23,0.648,0.6,0.535,4.7e-06,4,0.162,-7.043,1,0.107,71.912,4,0.269,70,0
+90,77UjLW8j5UAGAGVGhR5oUK,Pray For Me (with Kendrick Lamar),Black Panther The Album Music From And Inspired By,Kendrick Lamar,211440,2018-02-09,0.0762,0.735,0.677,2.17e-05,2,0.111,-4.979,1,0.093,100.584,4,0.188,70,0
+91,0Ult84lvFuqNvbyXwyRQ58,I Miss You (feat. Julia Michaels),What Is Love? (Deluxe Edition),Clean Bandit,205986,2018-11-30,0.299,0.693,0.624,7.64e-06,0,0.0955,-7.482,0,0.0448,105.002,4,0.369,70,0
+92,0b9oOr2ZgvyQu88wzixux9,This Is America,This Is America,Childish Gambino,225773,2018-05-06,0.117,0.854,0.463,0.0,5,0.354,-6.159,1,0.137,120.024,4,0.549,70,0
+93,4QtiVmuA88tPQiCOHZuQ5b,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofía Reyes,201526,2018-02-16,0.165,0.792,0.895,0.0,1,0.0501,-3.112,0,0.0589,94.968,4,0.794,70,0
+94,10Igtw8bSDyyFs7KIsKngZ,Freaky Friday (feat. Chris Brown),Freaky Friday (feat. Chris Brown),Lil Dicky,216631,2018-03-15,0.147,0.755,0.599,0.0,8,0.109,-5.042,1,0.224,133.123,4,0.755,70,0
+95,3qN5qMTKyEEmiTZD38BNTT,I'm Upset,Scorpion,Drake,214466,2018-06-29,0.279,0.899,0.586,0.0,11,0.0836,-7.866,0,0.343,150.002,4,0.492,69,0
+96,1lsBTdE6MGsKeZCD6llNu7,Done for Me (feat. Kehlani),Voicenotes,Charlie Puth,180493,2018-05-11,0.193,0.856,0.632,0.0,6,0.0688,-3.692,0,0.074,112.009,4,0.697,69,0
+97,2Yl4OmDby9iitgNWZPwxkd,Be Careful,Invasion of Privacy,Cardi B,210787,2018-04-06,0.0256,0.82,0.568,0.0,6,0.0952,-8.23,0,0.411,152.279,4,0.535,69,0
+98,0At2qAoaVjIwWNAqrscXli,Boo'd Up,READY,Ella Mai,256063,2017-02-22,0.0862,0.561,0.779,0.0,10,0.078,-5.107,0,0.0531,81.965,4,0.235,68,0
+99,55S2PQgSMYAhgoTCcGCDfw,Youngblood,Youngblood,5 Seconds of Summer,203417,2018-04-12,0.0169,0.596,0.854,0.0,7,0.124,-5.114,0,0.463,120.274,4,0.152,68,0
