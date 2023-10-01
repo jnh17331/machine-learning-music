@@ -1,0 +1,101 @@
+,song_id,song_name,album,artist,duration(ms),release_date,acousticness,danceability,energy,insturmentalness,key,liveness,loudness,mode,spechiness,tempo,time_signature,valence,popularity,binary_popularity
+0,4k9EkhkFZY8Bk41Qi0Ob7P,The Choice Is Yours (Revisited),A Wolf In Sheep's Clothing,Black Sheep,243200,1991-01-01,0.0336,0.867,0.679,1.59e-06,10,0.0742,-12.028,0,0.207,101.293,4,0.68,58,0
+1,2PvqEwpuv84hjxLs82uYLv,Express Yourself,Straight Outta Compton (Expanded Edition),N.W.A.,265000,1988-08-08,0.0369,0.849,0.627,0.0,3,0.184,-9.616,0,0.305,95.106,4,0.961,0,0
+2,5K8qwhQQSAj9ebIvlNJY8q,Tennessee - Remastered 2001,Classic Masters,Arrested Development,272706,2002-01-01,0.0284,0.815,0.851,0.0,1,0.343,-3.667,0,0.178,99.915,4,0.674,35,0
+3,6DOyEhN7AorM5fqBWzfkpQ,Paul Revere,Licensed To Ill,Beastie Boys,220914,1986-11-15,0.018,0.894,0.36,0.0,6,0.252,-19.943,0,0.889,91.707,4,0.506,0,0
+4,5g52MCuuPbV4vsKKMTZl0q,The Message (Re-Recorded / Remastered),White Lines,Grandmaster Flash & The Furious Five,264614,1984,0.336,0.943,0.803,0.0,7,0.106,-3.972,0,0.182,101.369,4,0.836,22,0
+5,2g4SumkFZpHOypfF5xng9Z,Music (feat. Marvin Gaye),Music,Erick Sermon,223133,2001-09-12,0.224,0.896,0.457,1.47e-06,8,0.0832,-9.075,0,0.0777,100.043,4,0.921,42,0
+6,37HqLVODvnooEx6KqcyGns,Juicy,Ready To Die,The Notorious B.I.G.,302666,1994,0.486,0.892,0.833,0.0,9,0.218,-4.697,1,0.253,96.061,4,0.786,0,0
+7,67ncYmW29pNJJY2yXuLPwT,You Know How We Do It,Greatest Hits,Ice Cube,232786,2001-12-04,0.0231,0.743,0.651,0.00388,10,0.0851,-6.269,0,0.0343,92.876,4,0.543,67,0
+8,6TOBl61dNBIhqmP3Vb7B9b,I Got 5 On It,Snoop Dogg Presents: The West Coast Blueprint,Snoop Dogg,252773,2010-02-23,0.22,0.554,0.79,0.0,10,0.117,-5.841,0,0.386,174.144,4,0.626,0,0
+9,5Ik3n2wrbDBcEi4CtzpVCr,DWYCK,Full Clip: A Decade Of Gang Starr,Gang Starr,242266,1999-07-13,0.00406,0.919,0.734,8.13e-06,7,0.0884,-7.492,1,0.306,98.98,4,0.594,25,0
+10,7Ml5yFM5H8gCQ4U4NSe4Bc,Work It (feat. 50 Cent) - Remix,Under Construction,Missy Elliott,304560,2002-11-11,0.061,0.842,0.748,0.0,1,0.0877,-5.361,1,0.279,101.753,4,0.622,47,0
+11,4Tyv7nnNTHC6mR1pTubIrw,Drop It Like It's Hot,Drop It Like It's Hot (International Version),Snoop Dogg,270466,2004-01-01,0.188,0.912,0.553,0.0,1,0.102,-4.716,1,0.205,91.991,4,0.62,0,0
+12,0qOcGXEuXu66OQwWRyqFxD,Award Tour (feat. Trugoy The Dove),The Anthology,A Tribe Called Quest,207960,1999-10-26,0.00209,0.814,0.695,0.000126,6,0.161,-6.561,0,0.237,97.182,4,0.505,39,0
+13,0f1yzIIGD8k32DNVeEn6jb,You Gots To Chill,Strictly Business,EPMD,261840,1988-06-07,0.089,0.882,0.814,0.0,8,0.16,-5.214,0,0.424,99.689,4,0.854,52,0
+14,21REQ1bCUWphT2QK3bLWYQ,Sure Shot,Ill Communication,Beastie Boys,199666,1994-05-23,0.388,0.692,0.799,0.0,1,0.301,-7.924,1,0.164,97.978,4,0.549,62,0
+15,0kSkSJGSbPIxW6jRmOmS5d,Nuthin' but a G Thang,"Best of Old School Hip-Hop, Vol. 1",Various Artists,255089,1998-01-01,0.00701,0.797,0.712,0.0,11,0.308,-8.581,0,0.281,94.639,4,0.738,0,0
+16,5gsY63Dq5ht0LEvydhj9lA,Peter Piper,Raising Hell,Run–D.M.C.,204133,1986-05-15,0.0113,0.873,0.62,0.000121,7,0.0925,-8.812,1,0.293,105.332,4,0.574,54,0
+17,3ADvHtuGfkygTJ6V0n8sYQ,Ladies First (feat. Monie Love),Rhino Hi-Five: Queen Latifah,Queen Latifah,235519,2006-08-22,0.0477,0.839,0.899,0.0,11,0.0813,-5.79,1,0.266,107.34,4,0.833,0,0
+18,4WxQGUmWBRNovxlF2g8Xdv,The Humpty Dance,Sex Packets,Digital Underground,391693,1990,0.0341,0.813,0.693,0.0,10,0.121,-8.0,0,0.266,103.508,4,0.618,0,0
+19,2MuJbBWAVewREJmB8WdGJ3,It Was A Good Day,The Essentials,Ice Cube,260306,2008-01-01,0.135,0.78,0.754,0.034,5,0.0467,-5.377,0,0.0952,82.394,4,0.81,59,0
+20,3eaoHvdH4JjJ9YlhzOAR5S,The Seed (2.0),Phrenology (International Version),The Roots,267933,2002-11-26,0.039,0.758,0.957,0.0,7,0.133,-2.282,1,0.0357,111.119,4,0.966,0,0
+21,0qQkURBRdv5f8Y77K763S9,Rappers Delight,Ultimate 70's Classic Hits,The Greatest Hit Machine,296488,2009-12-22,0.0163,0.934,0.711,4.18e-06,7,0.0351,-10.321,1,0.145,109.992,4,0.963,12,0
+22,2th1x0DE2WRSh76N9w32oj,Party Up,The Definition Of X: Pick Of The Litter,DMX,272920,2007-01-01,0.0894,0.72,0.952,0.0,3,0.21,-1.523,0,0.23,100.952,4,0.557,0,0
+23,3Yxmpx64AdWAzG3qAD4Dty,It Takes Two,Profilin': The Hits,Various Artists,301893,1990-01-01,0.0143,0.767,0.776,0.0,2,0.326,-8.915,1,0.144,111.686,4,0.608,55,0
+24,4LwU4Vp6od3Sb08CsP99GC,The Next Episode,2001,Dr. Dre,161506,1999-11-16,0.0281,0.922,0.909,0.0,10,0.0856,-2.429,0,0.27,95.295,4,0.309,81,1
+25,2mu2oL9gdgHGtlg9poer2u,Rebirth of Slick (Cool Like Dat),Beyond The Spectrum - The Creamy Spy Chronicles,Digable Planets,261066,2005-01-01,0.0539,0.887,0.422,0.0455,1,0.114,-14.505,0,0.228,98.332,4,0.612,42,0
+26,1oTHteQbmJw15rPxPVXUTv,Insane in the Brain,Black Sunday,Cypress Hill,208266,1993-07-20,0.0291,0.897,0.611,0.186,11,0.0894,-10.489,1,0.211,102.304,4,0.769,74,0
+27,3UhwS81S9L7i2byZCrhSAv,Funky Child,Here Come The Lords,Lords Of The Underground,271066,1993-01-01,0.0356,0.859,0.635,0.00346,10,0.13,-9.532,0,0.193,96.571,4,0.53,45,0
+28,59xoannYTvoxAuFYGxFeXc,Let Me Clear My Throat - Live,Let Me Clear My Throat,DJ Kool,287973,1996,0.233,0.506,0.847,0.0,0,0.96,-6.527,1,0.463,98.649,4,0.65,0,0
+29,4LX1UlvBCZhwVMFeM2kSgA,Cold Rock a Party,Rhino Hi-Five: MC Lyte,MC Lyte,247306,2007-04-24,0.192,0.896,0.744,1.19e-06,11,0.108,-5.239,0,0.246,92.91,4,0.744,0,0
+30,0lZWjBImx6kNe3WtOA09Xu,Sugar Hill,Doe Or Die,AZ,249760,1995-10-10,0.000693,0.682,0.647,5.97e-06,8,0.0693,-7.332,1,0.189,181.86,4,0.529,51,0
+31,13KEdaWIc7T6ozEmnJjHy1,Get Ur Freak On,Miss E... So Addictive,Missy Elliott,237066,2001-05-14,0.533,0.78,0.787,0.134,0,0.122,-6.653,1,0.209,177.835,4,0.668,42,0
+32,0GugYsbXWlfLOgsmtsdxzg,Push It,The Best Of Salt-N-Pepa 20th Century Masters The Millennium Collection,Salt-N-Pepa,268533,2008-02-05,0.00547,0.93,0.722,0.00505,7,0.0554,-6.597,1,0.0691,127.227,4,0.967,0,0
+33,16GHcGtW9Io7AuVdNmTjv3,Live Your Life - feat. Rihanna,Paper Trail,T.I.,338853,2008-09-08,0.071,0.375,0.862,0.0,11,0.211,-3.363,0,0.255,159.841,4,0.478,0,0
+34,2PaGleg2P2owsq5ktgSnlL,La Raza,Snoop Dogg Presents: The West Coast Blueprint,Snoop Dogg,207413,2010-02-23,0.0459,0.786,0.781,0.000321,1,0.114,-5.886,1,0.0832,107.017,4,0.717,0,0
+35,2pwTzYUTIiwF7Pn8ygXD91,California Love (remix),All Eyez On Me,2Pac,385880,1996-02-13,0.00654,0.635,0.843,0.0,5,0.495,-4.197,1,0.0767,91.634,4,0.657,0,0
+36,2oTDOIAdsxPTE7yAp4YOcv,Jump Around,House Of Pain,House Of Pain,214946,1992,0.0113,0.854,0.71,8.72e-05,4,0.166,-6.32,0,0.0793,106.894,4,0.818,0,0
+37,3CAXJPjCJ20XmGnJcpwJsg,Funky For You,Nice & Smooth,Nice & Smooth,238440,1989-01-01,0.0895,0.749,0.675,0.0,1,0.25,-11.987,1,0.372,200.386,4,0.692,14,0
+38,75DjPjiIp2fvJDjtt41Jfs,Gossip Folks (feat. Ludacris),Under Construction,Missy Elliott,234893,2002-11-11,0.362,0.707,0.538,0.0,0,0.317,-5.264,1,0.505,121.732,4,0.439,58,0
+39,5Mcvgt2GbxxCp6cz3Kfjey,In Da Club,Get Rich Or Die Tryin,50 Cent,193466,2003-02-06,0.325,0.906,0.663,0.0,11,0.0883,-3.955,0,0.355,90.042,4,0.847,52,0
+40,3QNBWffapgHMSgraO6Um70,Manifest,Mass Appeal: The Best Of Gang Starr,Gang Starr,290826,2006-12-26,0.0491,0.847,0.806,7.05e-06,6,0.194,-6.762,1,0.279,90.859,4,0.715,15,0
+41,5FtID9cgz6hX35unvcxyHk,My Name Is,Curtain Call: The Hits,Eminem,268853,2005-12-06,0.0449,0.846,0.676,1.02e-06,5,0.112,-6.155,0,0.33,85.437,4,0.817,49,0
+42,2bUojZta7GJTjGAqo064jo,Life Goes On,All Eyez On Me,2Pac,301600,1996-02-13,0.117,0.693,0.843,0.0,7,0.343,-5.463,1,0.253,158.465,4,0.529,0,0
+43,0Puj4YlTm6xNzDDADXHMI9,Sabotage,Ill Communication,Beastie Boys,178440,1994-05-23,0.032,0.324,0.938,0.0321,6,0.0961,-7.332,0,0.102,168.131,4,0.543,76,1
+44,6ZjkzOxYdWb6MMIwJ8HXIf,Mama Said Knock You Out,Def Jam Music Group Tenth Year Anniversary Box Set,Various Artists,287733,2009-06-02,0.0408,0.779,0.854,0.656,10,0.29,-5.445,0,0.126,102.375,4,0.588,0,0
+45,32SFvZODywPBVDYSYtqxCj,Ruff Ryders' Anthem - Re-Recorded,Greatest Hits with a Twist - Deluxe Edition,DMX,231040,2011-03-08,0.202,0.867,0.796,0.0,6,0.0838,-4.73,1,0.0693,92.766,4,0.776,57,0
+46,1wfpgFR4S9u975iWtIjlAB,Bust A Move,Stone Cold Rhymin',Young MC,262333,1989,0.084,0.945,0.486,7.9e-05,4,0.0722,-15.642,1,0.187,117.575,4,0.803,0,0
+47,0I3q5fE6wg7LIfHGngUTnV,Ms. Jackson,Stankonia,Outkast,270506,2000-10-31,0.143,0.843,0.806,0.0,4,0.0771,-5.946,0,0.269,94.948,4,0.613,82,1
+48,0IVAlb0cFCH1cQ974iR1TU,Ms. Fat Booty,Black On Both Sides,Mos Def,223546,1999-10-12,0.148,0.782,0.589,0.0,1,0.164,-4.827,1,0.189,90.438,4,0.869,70,0
+49,503OTo2dSqe7qk76rgsbep,Still D.R.E.,2001,Dr. Dre,270586,1999-11-16,0.16,0.816,0.775,0.00031,11,0.0543,-3.323,1,0.234,93.431,4,0.527,83,1
+50,3fwUpUntnrvggfHhvyQq6D,Hip Hop Hooray,Booty Phat Classics,Various Artists,264840,2001-04-17,0.0482,0.869,0.826,2.42e-06,6,0.326,-6.996,0,0.101,99.143,4,0.721,0,0
+51,2HoDr1yVksl19omOhc1zWy,Hip-Hop,Let's Get Free,Dead Prez,214066,2000-02-08,0.000633,0.725,0.737,0.00417,4,0.109,-7.453,1,0.324,77.162,4,0.219,62,0
+52,6glsMWIMIxQ4BedzLqGVi4,"So Fresh, So Clean",Stankonia,Outkast,240026,2000-10-31,0.0281,0.725,0.64,0.0,5,0.099,-7.905,0,0.332,166.028,3,0.915,74,0
+53,2wGSgTmgSF3xjRrHkTc25R,Hate It Or Love It,The Documentary,The Game,206400,2005,0.14,0.802,0.785,0.0,9,0.123,-4.781,1,0.207,99.998,4,0.435,82,1
+54,6SLzR3veMN3Xyom4zMdoJZ,Passing Me By,Cydeways: Best of the Pharcyde,The Pharcyde,303400,2001-01-16,0.071,0.759,0.708,0.0,4,0.155,-9.555,0,0.266,87.089,4,0.59,0,0
+55,2g8HN35AnVGIk7B8yMucww,Big Poppa - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,252746,1994-09-13,0.43,0.78,0.575,0.0,9,0.143,-7.247,0,0.273,84.492,4,0.773,80,1
+56,00i2HU7TEzzftShjRrDSEF,Changes,The Best of 2Pac,2Pac,268960,2007-12-03,0.0404,0.865,0.657,0.0,7,0.14,-6.722,1,0.076,111.115,4,0.316,64,0
+57,4gQdwwPXSXnDkUh4jYqLoC,Hip Hop,Black On Both Sides,Mos Def,196440,1999-10-12,0.024,0.592,0.861,0.0,1,0.492,-5.177,1,0.249,90.238,4,0.794,56,0
+58,0eK5y1c7WDyWwx6k9SFjbT,Renegade,The Blueprint (Explicit Version),JAY-Z,337760,2001-09-11,0.399,0.561,0.774,1.84e-06,1,0.189,-3.144,0,0.447,77.621,1,0.82,61,0
+59,3gn83PwStatbwHfKwpQ3Od,Intergalactic - Edited,Hello Nasty,Beastie Boys,231466,1998-07-14,0.028,0.744,0.864,1.2e-06,4,0.454,-7.353,0,0.29,105.906,4,0.396,0,0
+60,6RAssOFl58sfOb20jaWq7B,Hypnotize,Life After Death (Explicit Version),The Notorious B.I.G.,230040,1997,0.149,0.917,0.523,0.0,9,0.357,-6.223,1,0.283,93.914,4,0.656,0,0
+61,6iXcPsToMyTheci6e1L2ya,Dear Mama,Greatest Hits,2Pac,278733,1998-01-01,0.368,0.778,0.568,0.0,6,0.115,-6.096,1,0.074,84.121,4,0.34,54,0
+62,1XRWHVXbXpqRWYpHOaNsQr,Rump Shaker - Radio Edit,Boom Box Flava,Various Artists,237266,2002-01-01,0.00699,0.874,0.719,0.000323,1,0.293,-8.749,1,0.228,102.255,4,0.182,41,0
+63,5q6pg1kvXfT7z5MqG0KKSs,Can I Kick It?,Peoples' Instinctive Travels & the Paths of Rhythm,A Tribe Called Quest,252066,1990-04-17,0.161,0.867,0.554,0.0103,4,0.111,-13.634,0,0.249,96.668,4,0.766,0,0
+64,7fQmDkqrrj13kxv4Vle3AM,Ni**as In Paris,Watch The Throne,JAY-Z,219333,2011-08-08,0.127,0.788,0.859,0.0,1,0.348,-5.542,1,0.315,140.027,4,0.769,44,0
+65,22Vl3mKNHYw3fydN0c8zSD,My Philosophy,By All Means Necessary,Boogie Down Productions,338133,1988-04-12,0.0404,0.878,0.835,0.0,4,0.354,-16.385,0,0.124,93.998,4,0.727,0,0
+66,2YIjojA9bKEcD4ScEiBg2q,Hard Knock Life,Vol.2... Hard Knock Life,JAY-Z,238560,1998-09-29,0.0663,0.864,0.664,0.0089,9,0.0492,-7.095,0,0.344,153.957,4,0.556,47,0
+67,0whZQj81yqAv9yJEyNZcnR,Damn It Feels Good To Be A Gangsta,Uncut Dope,Geto Boys,310600,1992-11-17,0.219,0.786,0.793,0.691,1,0.124,-8.004,1,0.163,88.898,4,0.649,0,0
+68,0dNiLb9FEHrRK7VFDJctiR,Ain't No Half-Steppin',Long Live The Kane,Big Daddy Kane,319906,1988-01-01,0.00569,0.836,0.728,0.000819,10,0.0649,-12.058,0,0.234,100.842,4,0.599,52,0
+69,0UUSebzzrC8hKiVcX8fBsz,Tha Crossroads,R&B: From Doo-Wop To Hip-Hop,Various Artists,222666,1999-10-08,0.0824,0.684,0.434,0.0,4,0.256,-9.791,1,0.0618,144.273,4,0.555,0,0
+70,5lxsN3BrIE8Vruyzhzm3H4,Regulate,Regulate...G Funk Era (Explicit Version),Warren G,248866,1994-06-07,0.311,0.86,0.517,3.97e-06,4,0.113,-13.076,0,0.241,95.263,4,0.757,0,0
+71,4EGduKhpEdXZFsZELRkvfs,Bow Down,Greatest Hits,Ice Cube,206866,2001-12-04,0.014,0.899,0.588,0.0,9,0.366,-7.072,1,0.289,92.921,4,0.413,40,0
+72,5Z01UMMf7V1o0MzF86s6WJ,Lose Yourself,Curtain Call: The Hits (Deluxe Edition),Eminem,326466,2005-12-06,0.00868,0.692,0.744,0.000423,2,0.359,-4.565,1,0.257,171.374,4,0.0612,78,1
+73,6ENJiFz2P8cNu1yftOI5rI,This Way,Neighborhood Watch,Dilated Peoples,245109,2004-04-06,0.151,0.494,0.864,8.04e-06,4,0.321,-4.552,0,0.389,87.277,4,0.652,38,0
+74,2OKxNaK8xCBqWZ61OwIw0d,Gangsta's Paradise - feat. L.V.,Rhino Hi-Five: Coolio,Coolio,240466,2005-03-15,0.0524,0.636,0.66,0.0,8,0.545,-6.77,1,0.0581,79.957,4,0.475,0,0
+75,5f97C4I05VWfoVVfJc3P3q,I Just Wanna Love U (Give It 2 Me),The Hits Collection Volume One (Deluxe),JAY-Z,229720,2010-11-22,0.381,0.865,0.956,0.0,11,0.0326,-1.468,0,0.278,98.119,4,0.823,34,0
+76,1NRjLmipYrv39gWoqCl2w2,Hero,Nas,Nas,240000,2008-01-01,0.00103,0.676,0.913,3.54e-06,4,0.224,-5.198,0,0.109,94.994,4,0.39,41,0
+77,1ANOv63SRuUpI9w347Mgg7,You Got Me,Things Fall Apart (Explicit Version),The Roots,259293,1999-02-23,0.161,0.735,0.443,0.0,11,0.188,-8.09,0,0.278,81.031,4,0.757,0,0
+78,4C7Ss9bTPOWJMh3rarF1mN,Definition,Mos Def & Talib Kweli Are Black Star,Black Star,206493,1998-09-29,0.0252,0.65,0.9,0.0,1,0.176,-4.099,0,0.374,89.788,4,0.659,60,0
+79,6xQZuh6E5I7Ga9RNTXUM9k,Lodi Dodi (feat. Nancy Fletcher),Doggystyle,Snoop Dogg,301400,1993,0.0114,0.49,0.763,0.0,8,0.138,-3.802,1,0.108,79.015,4,0.632,0,0
+80,6dBQ5asGzaKH9313wBxvIz,Slam,Def Jam Music Group Tenth Year Anniversary Box Set,Various Artists,217013,2009-06-02,0.0437,0.807,0.917,0.000466,9,0.871,-6.841,1,0.43,98.188,4,0.698,0,0
+81,1LM6EReMkAxuDXDF26ekl2,Get By,Quality,Talib Kweli,227426,2002-12-16,0.00324,0.662,0.928,0.0,2,0.17,-4.688,1,0.377,90.509,4,0.775,57,0
+82,6uQKuonTU8VKBz5SHZuQXD,This Is How We Do It,This Is How We Do It,Montell Jordan,238800,1995-01-01,0.0141,0.799,0.623,0.0,0,0.43,-9.374,1,0.0812,103.649,4,0.773,67,0
+83,5YUoidMogd9JTkomrKsL2n,Raid,Madvillainy,Madvillain,150520,2004-03-24,0.677,0.415,0.875,1.45e-06,11,0.217,-6.464,0,0.47,201.664,4,0.593,0,0
+84,6qUEOWqOzu1rLPUPQ1ECpx,Walk This Way,Raising Hell,Run–D.M.C.,310386,1986-05-15,0.0174,0.761,0.711,0.000101,9,0.0652,-7.989,1,0.0604,105.448,4,0.947,70,0
+85,2c7H254xlKoGhmZT194C0T,Shoop,The Best Of Salt-N-Pepa 20th Century Masters The Millennium Collection,Salt-N-Pepa,247400,2008-01-01,0.0816,0.939,0.72,0.0,0,0.147,-5.565,1,0.216,96.918,4,0.786,1,0
+86,2oLwDI8tZUOh6SmTMRRfKs,Elevators (Me & You),ATLiens,Outkast,265200,1996-08-27,0.0234,0.772,0.586,0.000722,10,0.0562,-10.434,0,0.301,85.068,4,0.643,59,0
+87,4xkOaSrkexMciUUogZKVTS,Till I Collapse,The Eminem Show,Eminem,297786,2002-05-26,0.0622,0.548,0.847,0.0,1,0.0816,-3.237,1,0.186,171.447,4,0.1,85,1
+88,0eEXcw3JLVXcRxYrVYMy68,Electric Relaxation,The Anthology,A Tribe Called Quest,226133,1999-10-26,0.184,0.866,0.534,0.266,11,0.0929,-9.201,1,0.229,98.243,4,0.841,69,0
+89,6lEIjrQNwJPecJ7mMXjhjo,Wanna Be A Baller,Sittin' Fat Down South,Lil' Troy,355066,1998,0.266,0.871,0.648,0.0,10,0.2,-7.825,0,0.278,92.296,4,0.629,66,0
+90,4IgP2sTH5RYOpx9gbHQyMT,Mafia Music,Deeper Than Rap,Rick Ross,256400,2009-01-01,0.0164,0.627,0.822,0.0,1,0.121,-5.909,1,0.249,80.02,4,0.538,48,0
+91,2Lg4kvhOrPhpGEZmSe7VAN,Country Grammar (Hot Shit),Country Grammar,Nelly,287000,2000-06-27,0.00802,0.872,0.673,0.0,2,0.155,-6.879,1,0.108,162.781,4,0.527,1,0
+92,5YpZh8wfS4moRBk0ijNcXr,Harder Than You Think,How You Sell Soul to a Soulless People Who Sold Their Soul?,Public Enemy,249521,2007-08-07,0.0317,0.484,0.852,0.0,11,0.0547,-4.442,0,0.274,103.578,4,0.766,64,0
+93,5PQmSHzWnlgG4EBuIqjac2,If I Ruled the World (Imagine That),It Was Written,Nas,282373,1996-07-02,0.0474,0.879,0.564,9.43e-06,10,0.0519,-7.682,0,0.247,93.908,4,0.523,72,0
+94,3kG2YgxjYnnPBlo7H08Xt3,Mo Money Mo Problems (feat. Mase & Puff Daddy),Life After Death (Deluxe Version),The Notorious B.I.G.,253133,1997-03-04,0.0271,0.857,0.867,0.0,6,0.128,-4.952,0,0.0635,104.382,4,0.918,0,0
+95,1PS1QMdUqOal0ai3Gt7sDQ,Gold Digger,Late Registration,Kanye West,207626,2005-08-30,0.0195,0.629,0.696,0.0,1,0.0554,-5.572,0,0.348,93.034,4,0.623,81,1
+96,0shK5iZQppbHPQYiy60xs9,Rosa Parks,Aquemini,Outkast,324373,1998-09-29,0.105,0.792,0.701,0.0,6,0.761,-7.198,0,0.283,103.89,4,0.251,68,0
+97,152oiKrzbqUOWutP8m5PWv,I Ain't Mad At Cha,Greatest Hits,2Pac,293226,1998-01-01,0.0785,0.85,0.676,3.95e-05,5,0.361,-4.224,0,0.209,85.05,4,0.606,54,0
+98,5W3JWv6KlXngkAwMXq5HfM,Waves,Waves,Joey Bada$$,213333,2012-11-07,0.0944,0.591,0.892,0.0,8,0.113,-6.114,0,0.293,89.849,4,0.712,0,0
+99,0GIF0mcmAUMncJZFKnoywe,Accordion,Madvillainy,Madvillain,118853,2004-03-24,0.0294,0.568,0.622,0.0,9,0.0644,-6.488,0,0.309,96.887,4,0.704,0,0

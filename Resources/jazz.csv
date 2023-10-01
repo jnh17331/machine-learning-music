@@ -1,0 +1,101 @@
+,song_id,song_name,album,artist,duration(ms),release_date,acousticness,danceability,energy,insturmentalness,key,liveness,loudness,mode,spechiness,tempo,time_signature,valence,popularity,binary_popularity
+0,5p6me2mwQrGfH30eExHn6v,Take Five,On Time,Dave Brubeck,323066,2001-04-02,0.545,0.457,0.219,0.00098,8,0.0681,-15.325,0,0.0385,168.55,5,0.62,51,0
+1,4vLYewWIvqHfKtJDk8c8tq,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),Miles Davis,562640,1959-08-17,0.706,0.532,0.151,0.00136,0,0.116,-17.266,1,0.0376,136.759,4,0.211,63,0
+2,6KBsivP3Of4z2x6uNMAyE3,"Take the ""A"" Train",Piano In The Background (Expanded Edition),Duke Ellington,331800,1961-05-15,0.278,0.479,0.318,0.0959,0,0.107,-13.836,1,0.0395,94.036,4,0.575,48,0
+3,1wl5b2lw3YagQtZiYZbQWP,'Round Midnight,"Genius Of Modern Music (Vol.1, Expanded Edition)",Thelonious Monk,193840,1951,0.907,0.542,0.32,0.649,8,0.0609,-9.975,1,0.0387,116.648,4,0.206,55,0
+4,2JOEPbuwVf0nafGnMSVEhH,My Favorite Things,My Favorite Things (Deluxe Edition),John Coltrane,824133,1961,0.694,0.277,0.242,0.464,4,0.113,-18.442,1,0.0342,175.384,3,0.285,54,0
+5,0CLbmkYmQIWiEwnsbOkLpd,"A Love Supreme, Pt. I – Acknowledgement",A Love Supreme,John Coltrane,462866,1965-02,0.485,0.37,0.586,1.96e-06,5,0.348,-13.468,0,0.0581,121.573,4,0.519,51,0
+6,5o3DSHw1ORhM3lWxqGRvEf,"All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),Miles Davis,692746,1959-08-17,0.771,0.499,0.149,0.00469,0,0.115,-18.305,1,0.0314,139.815,3,0.363,52,0
+7,5PHNev6toiQRao7OnfFXMp,Birdland,Heavy Weather (Expanded Edition),Weather Report,359440,1977-04-17,0.421,0.593,0.529,0.00202,0,0.0752,-12.02,1,0.0353,156.441,4,0.532,30,0
+8,43p5Olz6Cis0ZCYcqgQ18y,The Girl from Ipanema,The Girl from Ipanema,Stan Getz,169026,2016-04-29,0.857,0.694,0.174,0.000458,5,0.0974,-15.732,0,0.0436,130.398,4,0.491,0,0
+9,5L8ta4ECl5zeA6bGqY7G38,"Sing, Sing, Sing",The Essential Benny Goodman,Benny Goodman,520293,2007-05-22,0.853,0.62,0.67,0.896,2,0.156,-11.575,0,0.0591,113.492,4,0.295,52,0
+10,1CTex49P0iWwzUGsMNjgaV,Strange Fruit,Billie Holiday,Billie Holiday,192866,1957-01-01,0.989,0.313,0.0437,0.148,6,0.209,-22.627,1,0.0315,100.827,1,0.0625,57,0
+11,3JRnDw3Mv6sv3tR29rDcPj,Night In Tunisia,Night In Tunisia: The Very Best Of Dizzy Gillespie,Dizzy Gillespie,187840,1946,0.904,0.487,0.343,0.0318,7,0.107,-10.494,0,0.0643,178.254,4,0.745,15,0
+12,47vmcuvMWFIsMaiHFIGSIu,Giant Steps,Giant Steps (Deluxe Edition),John Coltrane,283439,1960,0.441,0.431,0.491,0.000458,0,0.134,-10.746,0,0.0562,148.243,4,0.577,0,0
+13,3cYHFvUYDVY9loQQ0LalJc,Blue Rondo à la Turk,Dave Brubeck's Greatest Hits,Dave Brubeck,403693,1966,0.815,0.585,0.387,0.182,7,0.112,-12.666,0,0.0398,113.298,4,0.442,35,0
+14,3PJMsxg6rz9FOo6xNiASXz,Goodbye Pork Pie Hat,Mingus Ah Um,Charles Mingus,342373,1959,0.957,0.356,0.0937,0.096,8,0.209,-16.64,0,0.0353,86.669,3,0.278,54,0
+15,4ow1XH4hwe3yOGXG2eTTTY,Stolen Moments,The Blues and the Abstract Truth,Oliver Nelson,525613,2007-01-01,0.927,0.575,0.187,0.876,0,0.166,-13.081,0,0.0513,107.469,4,0.342,0,0
+16,2STqplYkSLD5ovON11dwcB,West End Blues,This Is Jazz #1,Louis Armstrong,195440,1996-03-22,0.985,0.616,0.274,0.508,3,0.116,-12.058,1,0.048,84.729,4,0.51,0,0
+17,6KDnTSdfWZqsDTdeuseE5I,God Bless The Child,God Bless The Child,Billie Holiday,191293,1985-01-01,0.94,0.43,0.0751,1.52e-05,1,0.247,-16.246,1,0.0376,128.829,3,0.226,10,0
+18,1tckg6GRaTodmxnDd4Cxkl,Cantaloupe Island,Cantaloupe Island,Herbie Hancock,330093,1994-01-01,0.39,0.485,0.551,0.0,0,0.0814,-11.115,0,0.0283,116.162,4,0.452,44,0
+19,4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker Sings,Chet Baker,141133,1956,0.941,0.438,0.00756,0.00643,0,0.109,-26.44,0,0.0382,133.32,4,0.277,65,0
+20,2xm9ihELo6xwrRKrBbPql9,Body and Soul,Body & Soul,Coleman Hawkins,182360,1996-05-21,0.976,0.659,0.113,0.88,10,0.179,-16.756,0,0.0569,95.063,4,0.738,53,0
+21,1CDBaGlisZlOJzvx88lL8A,Song For My Father,Song For My Father,Horace Silver,438280,1999-01-01,0.794,0.742,0.671,0.00441,5,0.122,-8.142,0,0.0407,127.359,4,0.591,56,0
+22,1jji1sWxZOo7eWnXifT7yP,Spain - Composite Alternative Take,Light As A Feather (Deluxe Edition),Chick Corea,333666,1998-01-01,0.887,0.38,0.503,0.93,11,0.14,-12.68,0,0.0453,143.112,4,0.279,36,0
+23,0aWMVrwxPNYkKmFthzmpRi,Blue in Green (feat. John Coltrane & Bill Evans),Kind Of Blue (Legacy Edition),Miles Davis,337733,1959-08-17,0.808,0.421,0.0162,0.0024,2,0.0978,-25.358,0,0.0388,110.479,4,0.154,64,0
+24,1hVRTl4yhWmGW7ImZoO22e,Naima,Giant Steps (Deluxe Edition),John Coltrane,258266,1960,0.948,0.303,0.0141,0.0944,10,0.0792,-19.759,0,0.0418,171.439,3,0.157,0,0
+25,6dRx7OUXfvosnXG3g9lWGi,"Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),Miles Davis,566133,1959-08-17,0.899,0.348,0.0219,0.112,2,0.0906,-21.065,0,0.0427,178.698,3,0.225,51,0
+26,1tSzm6vk58gS0NZwYS18W0,Waltz for Debby,The Bill Evans Album,Bill Evans,461493,1971,0.939,0.388,0.276,0.915,5,0.0784,-17.168,1,0.0374,92.415,4,0.191,37,0
+27,0X5DcGkbxCXSadgj01ZXd7,Autumn Leaves,Somethin' Else (Rudy Van Gelder Edition),Cannonball Adderley,659520,1958,0.768,0.535,0.258,8.95e-05,7,0.115,-9.499,0,0.033,110.953,4,0.281,56,0
+28,5bUNvFQYiAqJWZ4cQ9MlSZ,St. Thomas,Now's The Time!,Sonny Rollins,235826,1964,0.461,0.611,0.405,0.596,7,0.06,-10.607,1,0.0819,110.744,4,0.543,31,0
+29,6NF8MZ2trxckVBr82pyyPt,"Mercy, Mercy, Mercy",Jazz Profile: Cannonball Adderley,Cannonball Adderley,313200,1997-01-01,0.719,0.544,0.425,0.0186,10,0.964,-10.231,1,0.0346,84.443,4,0.348,53,0
+30,29U7stRjqHU6rMiS8BfaI9,What A Wonderful World,What A Wonderful World,Louis Armstrong,139226,1968-01-01,0.729,0.271,0.165,1.6e-06,5,0.118,-20.652,1,0.0351,77.082,4,0.203,78,1
+31,4xPO2pWQUBPCcGXCCKswRS,Lush Life,The Gentle Side Of John Coltrane,John Coltrane,329466,1975-01-01,0.977,0.397,0.0943,0.19,6,0.158,-20.055,1,0.042,90.69,4,0.119,19,0
+32,3zIuHdD8dkh1vPxQu334T7,Blue Train,Blue Train,John Coltrane,643127,1957-11-01,0.643,0.503,0.286,0.00112,8,0.156,-15.425,1,0.045,136.098,4,0.569,52,0
+33,4lyupu0V7V9CoKhH52sfS8,Poinciana,Poinciana,Ahmad Jamal,273760,1951,0.984,0.553,0.0902,0.91,2,0.1,-21.491,1,0.043,89.369,4,0.289,43,0
+34,0E8q2Fx2XuzXCO2NSAppkR,In A Sentimental Mood,Duke Ellington & John Coltrane,Duke Ellington,255226,1963-02,0.936,0.464,0.305,0.0846,3,0.208,-12.435,0,0.0316,108.229,4,0.282,66,0
+35,2x91iJc0UkFcjRMEZ2CoWB,"Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",Kind Of Blue (Legacy Edition),Miles Davis,586400,1959-08-17,0.704,0.639,0.186,0.00104,8,0.118,-15.831,1,0.0347,128.375,4,0.498,54,0
+36,2gNjmvuQiEd2z9SqyYi8HH,Summertime,Porgy And Bess,Ella Fitzgerald,298133,1958-01-01,0.916,0.172,0.0696,0.00199,11,0.137,-21.295,0,0.0339,167.974,5,0.103,65,0
+37,2zQl59dZMzwhrmeSBEgiXY,Watermelon Man,Head Hunters,Herbie Hancock,388960,1973-10-26,0.262,0.724,0.414,0.111,1,0.0785,-11.19,1,0.0588,146.939,4,0.719,56,0
+38,1xXydFs62EqOXFMPizVhn4,Salt Peanuts,Groovin' High,Dizzy Gillespie,196640,1955-01-01,0.919,0.701,0.393,0.384,5,0.0964,-9.868,1,0.155,75.908,4,0.791,44,0
+39,4Vkk3iD1VrENHJEACNddvt,Moanin' - Remastered 1998/Rudy Van Gelder Edition,Moanin' (Expanded Edition),Art Blakey & The Jazz Messengers,570720,1959-01-01,0.804,0.612,0.493,0.266,5,0.202,-8.589,0,0.0467,126.358,4,0.484,56,0
+40,6YYu8qFzcY1ZyzzsJIQM12,"Straight, No Chaser","Straight, No Chaser",Thelonious Monk,688133,1967,0.41,0.465,0.35,0.279,3,0.135,-12.977,1,0.0403,93.336,4,0.62,50,0
+41,5jGqJTsejbAy7QdhAH2Qwp,Good Morning Heartache,The Lady Sings,Billie Holiday,188160,1956-01-01,0.92,0.404,0.207,3.49e-05,1,0.118,-12.754,1,0.0338,107.228,3,0.366,40,0
+42,4XpQBqOJDm3wlpnOXR0y4m,"Mack The Knife - Live In Berlin, 1961",Ella Returns To Berlin,Ella Fitzgerald,209629,1991-01-01,0.735,0.667,0.467,0.0,7,0.744,-8.102,1,0.0664,148.217,4,0.767,16,0
+43,6dZKWYSx5YBIme4SfpIHJ0,In the Mood,Greatest Hits,Glenn Miller,211586,1996-04-14,0.854,0.645,0.398,0.306,8,0.0731,-12.208,1,0.11,82.768,4,0.705,57,0
+44,0aOH62uqDzuvCvN2jdVtZs,Desafinado,Jazz Samba,Stan Getz,349080,1962-01-01,0.708,0.588,0.356,0.0972,0,0.122,-17.877,1,0.0807,87.167,4,0.763,54,0
+45,2Uyv4IymecQUPjKchJKC3R,Cast Your Fate To The Wind,Jazz Impressions Of Black Orpheus,Vince Guaraldi Trio,185866,1990-01-01,0.782,0.449,0.141,0.235,8,0.116,-20.982,1,0.0407,124.658,4,0.311,36,0
+46,7oB0QBEnGRIJjvlDc8YnM6,Rhapsody in Blue,Gershwin: Rhapsody in Blue & An American in Paris,George Gershwin,987266,1959,0.969,0.305,0.184,0.781,9,0.132,-18.342,1,0.0409,70.813,4,0.0771,51,0
+47,2ul1uIgptw43J3BkpA2g69,Blue Monk,The Complete Prestige 10-Inch LP Collection,Thelonious Monk,459866,2017-12-15,0.767,0.433,0.367,0.588,3,0.126,-15.473,1,0.0394,147.006,4,0.616,37,0
+48,1xdv6tmmDVa8hrmrkgtjPL,Caravan - Remastered,Money Jungle,Duke Ellington,252866,2002-01-01,0.811,0.448,0.656,0.393,5,0.0991,-7.993,0,0.0295,108.394,4,0.796,31,0
+49,77b1v5Vohuobvvu61VrhKR,The Sidewinder,The Best Of Lee Morgan,Lee Morgan,626666,1988-11-02,0.442,0.485,0.454,3.12e-05,8,0.0866,-12.676,1,0.034,151.069,4,0.809,32,0
+50,1wHKgpL6wb7V922tOJCIl3,Django,Pyramid,The Modern Jazz Quartet,275333,1960-01-01,0.684,0.402,0.206,0.00135,5,0.107,-19.784,0,0.0465,168.31,4,0.427,32,0
+51,4fxJQJY1VEdhmSAIqMeFrR,Compared to What,Compared to What,Les McCann,523333,2016-12-06,0.796,0.557,0.457,0.000917,0,0.703,-14.404,0,0.0362,151.71,4,0.709,32,0
+52,2JdllRPH6a8NCpt2bpxpns,Red Clay,Red Clay,Freddie Hubbard,729760,1970,0.407,0.519,0.379,0.288,9,0.161,-14.368,1,0.0353,139.749,4,0.598,36,0
+53,1PjvmeUrBN4mHw6LVTvkuz,"Ruby, My Dear","Genius Of Modern Music (Vol.1, Expanded Edition)",Thelonious Monk,190466,1951,0.875,0.553,0.317,0.00955,1,0.102,-13.658,1,0.0343,72.518,4,0.169,29,0
+54,5rdjEoAiqqsjZdQaYSaDta,April In Paris,April In Paris (Expanded Edition),Count Basie,228000,1956,0.653,0.344,0.422,0.216,4,0.0699,-11.909,0,0.0451,125.104,4,0.467,40,0
+55,15tLhnzO4o8fMOEjdZGfII,"Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",Bitches Brew,Miles Davis,1619373,1970-04,0.521,0.351,0.514,0.277,10,0.1,-9.092,0,0.0349,99.133,4,0.172,39,0
+56,5Dx9ABfPnS4QL2eriIBTDY,Twisted,The Hottest New Group in Jazz,"Lambert, Hendricks & Ross",136040,1959,0.546,0.582,0.69,0.0,5,0.109,-7.179,1,0.125,83.291,4,0.63,24,0
+57,0T1EaGm6b9eM7xBf4F1hlc,Maiden Voyage - Remastered,Maiden Voyage,Herbie Hancock,477093,1965-05-17,0.719,0.467,0.459,0.00312,0,0.0944,-9.706,0,0.0305,124.379,4,0.178,50,0
+58,77zlKibPvqudmNxMNpAtv6,Mood Indigo,In a Sentimental Mood,Duke Ellington,159773,2018-03-02,0.993,0.336,0.136,0.832,10,0.288,-12.604,1,0.0408,76.831,3,0.0458,40,0
+59,3L9DoEtclyZ1wZKphdSqB0,St. Louis Blues,This Is Jazz Louis Armstrong Sings,Louis Armstrong,180573,1928,0.951,0.677,0.377,0.827,11,0.194,-9.638,0,0.1,177.433,4,0.849,18,0
+60,6KpMB0Wgw1NVFqwn0DCprf,Manteca,Night In Tunisia: The Very Best Of Dizzy Gillespie,Dizzy Gillespie,186693,1946,0.829,0.616,0.67,0.85,5,0.106,-8.714,0,0.244,87.096,4,0.552,33,0
+61,1O7wcbUSKJBsNp8pRMdrzp,How High the Moon,By Popular Demand - Ella Fitzgerald,Ella Fitzgerald,194200,2015-03-23,0.88,0.772,0.274,0.0,7,0.332,-10.833,0,0.0849,111.783,4,0.657,0,0
+62,4Hhv2vrOTy89HFRcjU3QOx,At Last,At Last!,Etta James,179693,1960,0.547,0.274,0.348,0.0133,5,0.334,-8.631,1,0.0293,87.43,3,0.328,77,1
+63,4Ke1CYcm2wYDFlOhziFFjK,Fever,All Aglow Again!,Peggy Lee,202693,1960-05-01,0.314,0.833,0.0756,0.0,4,0.111,-20.822,0,0.147,136.007,4,0.338,48,0
+64,4vIyASYNw5jM3YwrfupTTp,Satin Doll,By Popular Demand Duke Ellington,Duke Ellington,179333,2015-04-02,0.745,0.611,0.0975,0.856,0,0.101,-11.57,1,0.0289,88.835,4,0.399,0,0
+65,0PHqHvmg4TIaANfbsvDMTR,"Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",Someday My Prince Will Come,Miles Davis,542400,1961-12-11,0.813,0.516,0.309,0.00301,0,0.156,-12.602,0,0.0331,152.066,3,0.277,44,0
+66,2TrdOlaaSzDYqGX6J6Fykx,Autumn In New York,Lady In Autumn: The Best Of The Verve Years,Billie Holiday,234000,1991-10-22,0.991,0.504,0.0694,0.00124,0,0.136,-17.856,0,0.0367,69.577,3,0.349,35,0
+67,0wum4PRBdmUBsPvoF26A8g,Epistrophy,Genius Of Modern Music Volume One,Thelonious Monk,187393,2013-12-03,0.855,0.495,0.321,0.0,8,0.202,-11.966,0,0.0388,65.298,4,0.399,22,0
+68,6zftobephkhaVOHpBEQmi6,I Loves You Porgy,Nina Simone and Her Friends (Remastered 2013),Nina Simone,248267,1959,0.907,0.425,0.0599,0.0,4,0.0976,-19.185,1,0.0417,112.002,4,0.156,0,0
+69,3FexBqEnmKPUttfXtwRDR6,It Don't Mean a Thing (If It Ain't Got That Swing),Ken Burns Jazz-Duke Ellington,Duke Ellington,189000,2000-10-30,0.973,0.709,0.387,0.0586,0,0.119,-11.245,0,0.371,106.736,3,0.668,36,0
+70,6Hb1510NEbWjOu0o9WjyBS,KoKo,"Savoy's Charlie, Vol. 1",Charlie Parker,176066,2007-07-26,0.591,0.594,0.487,0.388,1,0.11,-9.652,1,0.0601,74.142,4,0.536,18,0
+71,1xicvSO4CJ2ymqYgpk7DFh,"Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",Milestones,Miles Davis,342066,1958-04,0.439,0.553,0.546,0.000557,9,0.167,-7.459,0,0.0341,118.214,4,0.7,54,0
+72,6NSkgbaPwvLc3VGuW7JUKN,Misterioso,Genius Of Modern Music Volume One,Thelonious Monk,200506,2013-12-03,0.891,0.569,0.286,0.000124,5,0.172,-13.453,0,0.049,78.871,4,0.32,19,0
+73,6LCy9KJjMcAkyEHrAcXVfN,Nuages,Peche A La Mouche,Django Reinhardt,196293,1992,0.993,0.41,0.119,0.902,7,0.119,-18.675,1,0.0451,81.695,4,0.347,26,0
+74,2Ekw6l7TfaNVpmjl5g2157,Struttin' With Some Barbecue,New Orleans Nights,Louis Armstrong,358560,1957-12-01,0.519,0.444,0.542,1.19e-05,0,0.293,-7.769,1,0.122,93.297,4,0.476,0,0
+75,0dQ9lg1dRPNc7Cx2v3QphO,"The ""In"" Crowd",Jazz Piano,Various Artists,353160,2015-03-23,0.506,0.665,0.768,0.0868,7,0.962,-10.302,1,0.089,142.381,4,0.628,0,0
+76,3BFRqZFLSrqtQr6cjHbAxU,Ain't Misbehavin',"If You Got To Ask, You Ain't Got It!",Fats Waller,237773,1926,0.821,0.515,0.222,0.00193,0,0.19,-16.918,0,0.0575,98.358,4,0.35,51,0
+77,6k6Az4k1Li8cXHFcmPgL8n,Bye Bye Blackbird - Live,Bye Bye Blackbird,John Coltrane,1072800,1981,0.639,0.311,0.567,0.00251,8,0.265,-13.674,1,0.122,175.677,3,0.523,13,0
+78,0tUq1zaYNoV6ZiYRU2bjqf,"On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),Miles Davis,589200,1959-08-17,0.742,0.445,0.304,0.00068,8,0.175,-12.261,1,0.0437,76.74,4,0.362,46,0
+79,0MmNrhvLcoWjo7AOr0vgka,Linus And Lucy,A Charlie Brown Christmas [2012 Remastered & Expanded Edition],Vince Guaraldi Trio,185453,1965,0.787,0.496,0.388,0.939,8,0.167,-14.177,1,0.0382,81.772,4,0.694,2,0
+80,4hd8wgCh7ZQWRyXNLnwjTD,Georgia on My Mind,Live at l'Olympia,Ray Charles,372626,2014-10-13,0.752,0.304,0.289,0.0,4,0.756,-10.963,0,0.0432,147.176,3,0.154,0,0
+81,2oMaXY0yiWhAEWD7SutXh2,Joy Spring,Clifford Brown And Max Roach,Clifford Brown,410666,1954-12-01,0.702,0.654,0.334,0.714,8,0.114,-12.662,1,0.0521,81.544,4,0.697,50,0
+82,5QkvVF3HnHXugBie4hsE2d,One O'clock Jump,History,Count Basie,182000,2014-04-02,0.88,0.563,0.316,0.00231,6,0.163,-13.389,1,0.0648,169.687,3,0.761,0,0
+83,0EpS4MhdAbFVxoQOVTySKc,Potato Head Blues - 78rpm Version,This Is Jazz #1,Louis Armstrong,174200,1996-03-22,0.939,0.595,0.248,0.208,5,0.128,-13.019,1,0.242,183.231,4,0.927,0,0
+84,1yxJK6q9oymWO3vjbPCYmp,Bumpin' On Sunset,Tequila (Expanded Edition),Wes Montgomery,289000,1966-12-03,0.875,0.759,0.247,0.432,4,0.0978,-19.827,0,0.0521,107.601,4,0.443,43,0
+85,6Rqn2GFlmvmV4w9Ala0I1e,Feeling Good,I Put A Spell On You,Nina Simone,174000,1965-06-01,0.864,0.399,0.326,0.0,7,0.191,-9.239,0,0.0386,79.206,4,0.546,75,1
+86,0gjAHRlZptQ1oahk0HNVvU,Misty,Ready Take One,Erroll Garner,292692,2016-09-30,0.944,0.376,0.278,0.907,1,0.137,-13.592,1,0.0315,83.055,4,0.221,38,0
+87,3WOZ3wywcLV2vIAZG6zCWV,Moody's Mood For Love (I'm In The Mood For Love),At The Jazz Workshop,James Moody,193840,1998-01-01,0.934,0.504,0.262,0.0,1,0.705,-10.79,1,0.0489,85.731,3,0.71,21,0
+88,1i1KQqVPzdeuGTzrWSraAL,Stardust,Jazz Standards - CD 1,Various Artists,222453,2006-06-02,0.995,0.596,0.26,0.901,1,0.071,-11.27,1,0.0588,120.635,4,0.629,22,0
+89,3s8K5qEnKnqI0UJussDgjR,Yardbird Suite,The Genius Of Charlie Parker,Charlie Parker,175733,1991-01-01,0.954,0.781,0.275,0.905,0,0.153,-14.186,1,0.0792,106.289,4,0.792,35,0
+90,0JD7IHzP51Y94VwAUvFtbX,Diminuendo & Crescendo In Blue - Live,At The Alhambra,Duke Ellington,641466,2002-01-01,0.744,0.532,0.675,0.0436,1,0.738,-9.907,1,0.0859,110.054,4,0.738,5,0
+91,7M8iXcl69hHLrsNBinz8C5,Donna Lee,The Complete Savoy & Dial Master Takes,Charlie Parker,154333,2002-09-10,0.727,0.671,0.612,0.00502,10,0.33,-8.885,0,0.053,113.023,4,0.823,0,0
+92,3sU66kuOiMmfM7Bj4mSHyk,Water Boy,Don Shirley Trio,Don Shirley,294293,1961-01-03,0.932,0.445,0.102,0.896,0,0.0934,-19.506,1,0.0444,116.284,4,0.26,25,0
+93,6A1mh31895sUIYEpOfeqC3,Ornithology,Bird - Original Motion Picture Soundtrack,Charlie Parker,282200,1988-11-01,0.532,0.475,0.689,0.00427,9,0.969,-9.351,0,0.054,117.407,4,0.823,33,0
+94,1H13WKDhOgwVeWzveBPTh0,Begin The Beguine,The Essential Artie Shaw,Artie Shaw,194933,2005-06-28,0.938,0.656,0.238,0.134,2,0.292,-10.889,1,0.0377,139.774,4,0.616,37,0
+95,5rQTh8OF3mfjgu0NJkSTOk,Ceora,Cornbread,Lee Morgan,383400,1965,0.937,0.702,0.219,0.869,5,0.0886,-15.16,0,0.0432,126.331,4,0.35,48,0
+96,2ua1p76h5Yy2u3dVZ9Qb0l,Sophisticated Lady - Take 2,In a Sentimental Mood,Duke Ellington,194000,2018-03-02,0.988,0.437,0.229,0.715,0,0.309,-14.145,0,0.0382,87.567,4,0.318,26,0
+97,73UXONNvcyKDlw27FC0E2B,Sugar,Sugar (CTI Records 40th Anniversary Edition - Original recording remastered),Stanley Turrentine,603413,1971,0.437,0.568,0.543,0.0133,0,0.107,-10.975,0,0.038,124.001,4,0.544,29,0
+98,2jz7vSAguRJmBHEA4I6C4N,Footprints,The Best Of Wayne Shorter,Wayne Shorter,451733,1988-01-01,0.823,0.515,0.339,0.317,7,0.109,-16.457,0,0.0283,135.694,3,0.519,32,0
+99,4aOS6YINYO6UAPbiM5RO2U,Four On Six,Incredible Jazz Guitar,Wes Montgomery,377866,2000-01-01,0.924,0.379,0.35,0.768,7,0.122,-12.353,1,0.0504,204.049,4,0.473,33,0

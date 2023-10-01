@@ -1,0 +1,101 @@
+,song_id,song_name,album,artist,duration(ms),release_date,acousticness,danceability,energy,insturmentalness,key,liveness,loudness,mode,spechiness,tempo,time_signature,valence,popularity,binary_popularity
+0,6EPRKhUOdiFSQwGBRBbvsZ,Ace of Spades,Ace of Spades (Expanded Edition),Motörhead,166360,1980-11-08,4.02e-05,0.342,0.91,0.000121,4,0.0823,-7.748,1,0.0758,140.452,4,0.547,75,1
+1,2RaA6kIcvomt77qlIgGhCT,Breaking the Law,British Steel,Judas Priest,153840,1980,0.024,0.362,0.961,9.35e-06,2,0.159,-5.664,1,0.0857,164.019,4,0.491,74,0
+2,5V3mdRI2yQxbSsJGDPc5lD,Chop Suey!,Toxicity,System Of A Down,210240,2001-01-01,0.000353,0.42,0.929,0.000747,7,0.122,-3.899,0,0.121,127.204,4,0.3,1,0
+3,01ICFoBoco3TaM5r3HthXy,Master Of Puppets,Master Of Puppets (Remastered),Metallica,515386,1986-03-03,0.000721,0.539,0.828,0.438,4,0.198,-9.11,0,0.0361,105.303,4,0.587,0,0
+4,5MMnwYs0hIxkENRsbkWJ2G,Smoke On The Water - Remastered 2012,Machine Head (Remastered),Deep Purple,340742,1972-03-25,0.13,0.598,0.676,0.225,0,0.112,-9.211,1,0.0279,114.169,4,0.805,73,0
+5,4Yx9Tw9dTgQ8eGCq3PRDyn,Raining Blood,Reign In Blood (Expanded),Slayer,255186,1986-01-01,0.000417,0.301,0.995,0.295,1,0.125,-4.394,0,0.159,88.15,4,0.0374,0,0
+6,0P4JuEXYJmu2Q7BTtQW5nR,Fear Of The Dark - 1998 Remastered Version,Fear Of The Dark (1998 Remastered Edition),Iron Maiden,436826,1992,0.000762,0.302,0.815,0.00034,2,0.0959,-8.756,0,0.0582,109.937,4,0.251,1,0
+7,59WN2psjkt1tyaxjspN8fp,Killing In The Name,Rage Against The Machine - XX (20th Anniversary Special Edition),Rage Against The Machine,313573,1992,0.0266,0.466,0.833,0.0,7,0.0327,-4.215,1,0.304,88.785,4,0.661,80,1
+8,2KmEgiY8fQs0G6WNxtzQKr,Baba O'Riley,Who's Next (Deluxe Edition),The Who,300400,1971-08-14,0.313,0.489,0.724,0.185,5,0.287,-8.367,1,0.0352,117.292,4,0.15,0,0
+9,29SyMC0plk6qw8NMF7lfRL,You Really Got Me,Kinks (Deluxe),The Kinks,131573,1964-10-02,0.493,0.573,0.939,0.0,8,0.0994,-6.441,1,0.0808,137.382,4,0.963,73,0
+10,5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,482830,1971-11-08,0.58,0.338,0.34,0.0032,9,0.116,-12.049,0,0.0339,82.433,4,0.197,79,1
+11,0MYNeFsKpzBHwrJGfWZysV,Locomotive Breath,Aqualung (Special Edition),Jethro Tull,266013,1971-03-19,0.417,0.68,0.53,0.011,11,0.0559,-13.105,0,0.0889,124.551,4,0.352,60,0
+12,4JNi40t7xR5bO3PWxRkiPN,Free Bird,(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition],Lynyrd Skynyrd,558933,1973,0.0119,0.279,0.852,0.076,7,0.0624,-7.838,1,0.0511,117.418,4,0.438,0,0
+13,5rielSbAmN45G7MzfNt3KP,Anna Lee,Falling into Infinity,Dream Theater,352560,1997-09-12,0.0305,0.505,0.52,0.0,9,0.2,-7.1,0,0.0262,129.296,4,0.0974,33,0
+14,7o2CTH4ctstm8TNelqjb51,Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,354520,1987-07-21,0.0866,0.454,0.91,0.0996,6,0.116,-7.766,1,0.0448,125.116,4,0.629,19,0
+15,2tyW1uBUnYMKAFEfKDKi9B,Livin' On A Prayer,Slippery When Wet,Bon Jovi,250306,1986-01-01,0.0591,0.559,0.687,3.59e-05,0,0.0896,-10.912,1,0.0311,122.666,4,0.854,0,0
+16,5MxNLUsfh7uzROypsoO5qe,Dream On,Aerosmith,Aerosmith,266960,1973-01-05,0.388,0.307,0.433,9.08e-05,1,0.332,-10.057,1,0.029,160.9,4,0.224,11,0
+17,6CfjAVG9FwmwRtxE8yEWlu,Cum on Feel the Noize,Playlist: The Very Best Of Quiet Riot,Quiet Riot,290666,1983,0.00941,0.403,0.935,0.00065,11,0.0656,-4.216,0,0.135,145.105,4,0.353,0,0
+18,46QazXxQS0B31CnbRCy8CV,Rock You Like a Hurricane - 2011,Comeblack,Scorpions,255573,2011-11-07,0.000261,0.587,0.891,0.00454,11,0.314,-3.381,1,0.0361,124.005,4,0.705,62,0
+19,5Z8EDau8uNcP1E8JvmfkZe,School's Out,School's Out,Alice Cooper,210106,1972,0.05,0.294,0.745,0.125,5,0.676,-9.138,1,0.0461,134.364,4,0.347,70,0
+20,5RHG4SQ6iJ1qQJmt3EFJCX,We're Not Gonna Take It,Rhino Hi-Five: Twisted Sister,Twisted Sister,219666,2007-06-26,0.0127,0.502,0.924,0.0,4,0.162,-6.299,1,0.0503,149.186,4,0.922,55,0
+21,4hy4fb5D1KL50b3sng9cjw,Smells Like Teen Spirit,Nirvana (International Version),Nirvana,300826,2002-01-01,1.62e-05,0.48,0.875,0.000751,1,0.103,-5.898,1,0.0429,116.754,4,0.826,0,0
+22,2PfBSkCKZDXMsJogMT0wML,Jump,1984,Van Halen,239560,1984-01-03,0.0745,0.547,0.822,0.00943,0,0.0645,-7.201,1,0.0292,130.138,4,0.774,0,0
+23,1li0jGGRIaMaNNRBV8JXZ4,The Final Countdown,Playlist: The Very Best Of Europe,Europe,310426,1983,0.0722,0.536,0.914,0.00104,6,0.0528,-3.803,0,0.0668,117.657,4,0.193,0,0
+24,3L8WgDYS5TtwbyxOPSAiFf,Paranoid,Paranoid,Black Sabbath,167933,1970-09-18,0.000143,0.418,0.668,0.00113,6,0.173,-11.297,0,0.082,162.663,4,0.379,0,0
+25,32kgOw8wejH7zUhtXCM8DH,More Than a Feeling,Boston,Boston,285133,1976,0.000894,0.377,0.682,0.00217,7,0.0504,-8.039,1,0.0299,108.736,4,0.288,0,0
+26,78FzQfooQzB43sGzlpI2At,Is This Love,Whitesnake's Greatest Hits,Whitesnake,284400,1994-07-04,0.0711,0.493,0.747,0.0,0,0.138,-8.521,1,0.0298,90.239,4,0.536,59,0
+27,54yLLvpezvPO1lA3GspiZj,Holy Diver,Holy Diver,Dio,340640,1983,0.0125,0.473,0.783,0.475,10,0.268,-10.671,0,0.0869,91.976,4,0.124,66,0
+28,0FMhMAFPLg8EljnROSoVnj,La Grange - 1999 Remaster,Rancho Texicano: The Very Best of ZZ Top,ZZ Top,232533,2004-06-08,0.00494,0.552,0.651,0.0349,4,0.132,-10.624,0,0.229,161.548,4,0.533,53,0
+29,0MnI39P9Dze0PSUjetb8Va,Black Betty,The Dukes Of Hazzard (Music From The Motion Picture),Various Artists,235520,2005-07-19,0.00109,0.485,0.731,0.00108,11,0.162,-8.789,0,0.0925,117.022,4,0.831,56,0
+30,1AhDOtG9vPSOmsWgNW0BEY,Bohemian Rhapsody - Remastered 2011,A Night At The Opera (2011 Remaster),Queen,354320,1975-11-21,0.271,0.414,0.404,0.0,0,0.3,-9.928,0,0.0499,71.105,4,0.224,0,0
+31,5nvjZnTa1PUFV8hfrcMKYc,The Passenger,Lust For Life,Iggy Pop,283360,1977-08-29,0.0987,0.501,0.899,2.31e-06,0,0.613,-5.384,1,0.0563,134.805,4,0.723,0,0
+32,2Ck23L2znrPAFiyopqzWUj,Do You Remember Rock 'n' Roll Radio? - 2002 Remaster,End of the Century (Expanded 2005 Remaster),Ramones,229466,1980-02-04,0.445,0.302,0.961,0.00268,7,0.823,-5.619,1,0.116,152.366,4,0.659,48,0
+33,5jzma6gCzYtKB1DbEwFZKH,London Calling - Remastered,London Calling (Remastered),The Clash,200480,1979,0.123,0.651,0.801,0.0,0,0.0825,-7.34,1,0.0514,133.769,4,0.776,73,0
+34,2dbOYFfS7r7NAzquRvji9A,Balls to the Wall,Balls To The Wall,Accept,342600,1983,0.00392,0.544,0.739,0.000143,9,0.168,-7.383,1,0.0517,118.287,4,0.328,61,0
+35,3uMmllZo1AfoEnVT4ENCD3,Highway Star - Remastered 2012,Machine Head (Remastered),Deep Purple,366136,1972-03-25,0.135,0.307,0.909,0.0336,9,0.125,-7.08,0,0.0574,173.674,4,0.443,66,0
+36,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,Highway to Hell,AC/DC,208400,1979-07-27,0.061,0.574,0.913,0.00158,6,0.156,-4.793,0,0.133,115.728,4,0.423,85,1
+37,0hCB0YR03f6AmQaHbwWDe8,Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),Led Zeppelin,333893,1969-10-22,0.0484,0.412,0.902,0.131,9,0.405,-11.6,1,0.405,89.74,4,0.422,76,1
+38,4CJVkjo5WpmUAKp3R44LNb,Sweet Home Alabama,Second Helping,Lynyrd Skynyrd,281147,1974-04-15,0.181,0.597,0.605,0.000331,7,0.118,-12.013,1,0.0255,97.782,4,0.886,0,0
+39,63OFKbMaZSDZ4wtesuuq6f,Born To Be Wild,Steppenwolf,Steppenwolf,210373,1968,0.262,0.438,0.71,0.537,2,0.221,-12.412,1,0.0919,145.928,4,0.53,74,0
+40,57bgtoPSgt236HzfBOd8kj,Thunderstruck,The Razors Edge,AC/DC,292880,1990-09-24,0.000147,0.502,0.89,0.0117,4,0.217,-5.175,1,0.0364,133.52,4,0.259,84,1
+41,1znPMY3zq78mVuTAmOA9O7,Nothing Else Matters,Metallica,Metallica,388266,1991-01-01,0.0458,0.553,0.362,6.01e-06,4,0.075,-11.218,0,0.0263,142.352,3,0.158,0,0
+42,7MeXwzhSDGfqNfuFANgzVC,Toxicity,Toxicity,System Of A Down,218933,2001-01-01,0.000254,0.407,0.876,0.00265,8,0.215,-4.145,1,0.0529,116.335,3,0.521,0,0
+43,2SgbR6ttzoNlCRGQOKjrop,Cowboys from Hell,Cowboys from Hell,Pantera,243533,1990-07-20,0.00437,0.415,0.908,0.0345,2,0.082,-9.701,1,0.0765,114.816,4,0.437,74,0
+44,4nUdZ9HaXH02cvAbqf9C5L,Shout At The Devil,Shout At The Devil,Mötley Crüe,194986,1983,0.0207,0.511,0.949,0.000109,0,0.0743,-5.422,1,0.0796,94.906,4,0.447,0,0
+45,0wpnNSCDkdQWmVLAye6xId,Rock And Roll All Nite,Greatest Kiss,KISS,170800,1997-04-08,0.0535,0.658,0.922,0.0,1,0.0271,-6.997,1,0.0976,144.972,4,0.887,0,0
+46,6tVs6BS4vqrFsCrHS0Ycsr,The Trooper - 1998 Remaster,Somewhere Back in Time (The Best of 1980 - 1989),Iron Maiden,250946,2008-04-07,0.0172,0.288,0.864,0.0567,4,0.541,-6.762,0,0.0673,162.233,4,0.621,44,0
+47,0MKGH8UMfCnq5w7nG06oM5,Come As You Are,Nevermind (Deluxe Edition),Nirvana,218920,1991-09-26,0.00016,0.5,0.824,0.00161,4,0.0916,-5.846,0,0.0388,120.125,4,0.539,2,0
+48,7fSGbZLhWlAiCC3HDPAULu,(I Can't Get No) Satisfaction - Mono Version / Remastered 2002,Out Of Our Heads (Remastered),The Rolling Stones,222813,1965-07-30,0.0348,0.725,0.853,0.127,2,0.196,-7.842,1,0.0353,136.282,4,0.904,0,0
+49,1BXO5XG7ctHzjzpRRKlWZd,Start Me Up - Remastered,"Jump Back - The Best Of The Rolling Stones, '71 - '93",The Rolling Stones,213500,1993-11-22,0.154,0.695,0.817,0.171,5,0.144,-8.406,1,0.0341,122.003,4,0.97,0,0
+50,53968oKecrFxkErocab2Al,November Rain,Use Your Illusion I,Guns N' Roses,537506,1991-09-17,0.0165,0.197,0.629,0.279,11,0.125,-9.291,1,0.03,79.495,4,0.221,0,0
+51,4TmGtGkkmaoXRCvpOwDJoO,It's My Life,Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package),Bon Jovi,224600,2010-01-01,0.0295,0.546,0.931,1.67e-05,0,0.366,-3.025,0,0.0507,120.01,4,0.527,0,0
+52,6vvmYYUvGXtZLU8msxKvzF,I Wanna Be Sedated - 2002 Remaster,Road to Ruin (Expanded 2005 Remaster),Ramones,149466,1978-09-22,0.169,0.597,0.96,2.89e-05,11,0.105,-3.989,1,0.042,163.017,4,0.937,58,0
+53,4zpWGC5MmGN6zX4J9XV8Gv,Wind Of Change,Old Skool Of Rock,Various Artists,312093,2007-06-08,0.442,0.426,0.618,0.0,0,0.0972,-6.939,1,0.037,151.35,4,0.245,0,0
+54,3XEMhKdne3ySYevbEYllEr,The Beautiful People,Antichrist Superstar,Marilyn Manson,218826,1996-10-08,0.000779,0.621,0.834,0.456,10,0.0611,-10.068,0,0.0557,143.973,4,0.937,0,0
+55,5anCkDvJ17aznvK5TED5uo,Hail to the King,Hail to the King,Avenged Sevenfold,305906,2013-08-23,0.000297,0.58,0.916,0.0259,3,0.126,-4.358,0,0.0387,118.004,4,0.683,77,1
+56,756CJtQRFSxEx9jV4P9hpA,I Believe in a Thing Called Love,Permission to Land,The Darkness,216453,2003-07-07,0.0538,0.442,0.846,4.71e-06,4,0.282,-5.214,1,0.0764,128.235,4,0.622,70,0
+57,2g7gviEeJr6pyxO7G35EWQ,Paradise By the Dashboard Light,Bat Out Of Hell,Meat Loaf,508333,1977-10-21,0.214,0.326,0.872,0.0,2,0.461,-7.602,1,0.122,173.381,4,0.492,68,0
+58,6fqLce5TNAmNgbFwXD2DdG,"I'd Do Anything For Love (But I Won't Do That) - Live From The Beacon Theatre, New York, U.S.A./1995",Welcome To The Neighbourhood,Meat Loaf,329400,1995,0.727,0.265,0.553,0.0,0,0.983,-10.198,1,0.0702,76.115,4,0.237,57,0
+59,4ysiI2bYbXcGT8jMXEPQSk,Closer,The Downward Spiral,Nine Inch Nails,373306,1994-03-08,0.000286,0.554,0.728,0.578,10,0.129,-8.655,0,0.0408,90.012,4,0.57,0,0
+60,5nbNdS5SKdpiDZjCBh8W7b,Get It On,Electric Warrior (Deluxe Edition),T. Rex,262613,1971-09-24,0.176,0.728,0.878,0.856,11,0.61,-6.926,0,0.0564,126.59,4,0.911,0,0
+61,1rCUQpzLUTtRh0fdxeW15j,Purple Haze,Experience Hendrix: The Best Of Jimi Hendrix,Jimi Hendrix,172133,2000-03-27,0.00646,0.525,0.897,0.731,2,0.0639,-5.194,1,0.0727,108.578,4,0.448,0,0
+62,1L94M3KIu7QluZe63g64rv,Alive,Ten,Pearl Jam,340907,1991-08-27,0.00752,0.284,0.875,0.000461,11,0.402,-6.069,0,0.0422,75.009,4,0.595,76,1
+63,6QewNVIDKdSl8Y3ycuHIei,Even Flow,Ten,Pearl Jam,292580,1991-08-27,0.00178,0.394,0.944,4.54e-06,10,0.298,-6.506,0,0.0761,105.338,4,0.265,78,1
+64,6pqawkYEUzzuKve6QNfBaT,Sultans Of Swing,Sultans Of Swing - The Very Best Of Dire Straits,Dire Straits,346600,1998-11-10,0.0605,0.73,0.869,0.0608,5,0.335,-7.307,1,0.0294,148.152,4,0.903,0,0
+65,1FTnBp64Iy26qERGibjknm,My Sharona,Playlist: 70s Pop,Various Artists,240000,2008-04-28,0.0337,0.623,0.823,0.0152,0,0.573,-5.492,1,0.0402,147.571,4,0.867,0,0
+66,3hysZLHTIdK2MFh2Ynnn7O,Born to Run,The Essential Bruce Springsteen,Bruce Springsteen,270560,2003-10-16,0.00371,0.279,0.871,1.62e-06,4,0.143,-7.599,1,0.072,146.812,4,0.618,0,0
+67,7I6Ugwp4twHiMh7U7Ie0q1,Motorcycle Emptiness,GENERATION TERRORISTS,Manic Street Preachers,365573,1992-02-10,8.53e-06,0.529,0.621,0.601,4,0.113,-10.331,1,0.0296,112.636,4,0.239,29,0
+68,5ikdUUm6JbnEVnp35c7dvy,I Am the Resurrection - Remastered,The Stone Roses,The Stone Roses,492946,1989-05-02,0.00191,0.357,0.866,0.114,4,0.0815,-6.324,1,0.0411,129.071,4,0.721,58,0
+69,7ouMYWpwJ422jRcDASZB7P,Knights of Cydonia,Black Holes and Revelations,Muse,366213,2006-06-19,0.000273,0.366,0.963,0.0122,11,0.115,-5.301,0,0.142,137.114,4,0.211,69,0
+70,6y20BV5L33R8YXM0YuI38N,No One Knows,Songs For The Deaf,Queens of the Stone Age,278746,2002-01-01,0.0368,0.509,0.584,9.96e-05,0,0.384,-4.907,1,0.057,170.411,4,0.685,74,0
+71,1cnA8Zf6McVyoWTr8xf0Ml,Stargazer,Rising (Remastered),Rainbow,506160,1976-01-01,0.00374,0.166,0.948,0.0131,11,0.769,-8.503,0,0.0631,177.495,4,0.476,0,0
+72,2b9lp5A6CqSzwOrBfAFhof,Crazy Train,Blizzard of Ozz (Expanded Edition),Ozzy Osbourne,296200,1980-09-20,0.36,0.453,0.905,0.000569,9,0.26,-4.001,1,0.115,137.571,4,0.474,1,0
+73,1auUyL63z3sWnBhooTnz31,Many of Horror,Only Revolutions,Biffy Clyro,258573,2009-11-06,0.00427,0.498,0.647,9.87e-06,1,0.146,-7.631,1,0.0358,163.87,4,0.257,46,0
+74,4xnbjazXsR4fwaOdY5jQOH,Leather Jacket Love Song,Leather Jacket Love Song,The Cribs,186280,2013-02-10,0.000358,0.385,0.936,0.17,3,0.08,-4.024,1,0.043,142.949,4,0.418,0,0
+75,2AxCeJ6PSsBYiTckM0HLY7,Voodoo Child (Slight Return),Electric Ladyland,Jimi Hendrix,313373,1968-10-25,0.477,0.214,0.91,0.00833,8,0.0517,-6.662,1,0.389,175.549,4,0.448,68,0
+76,2cM6hAcaR3zsh2oYYV2MWU,Wild Thing,Hit Single Anthology,The Troggs,158250,1991-01-01,0.721,0.421,0.664,0.00244,11,0.0851,-10.657,0,0.0665,201.583,4,0.574,0,0
+77,2uXkW8uJcOIhlbUatEPLPs,Have Love Will Travel,Here Are the Sonics,The Sonics,160400,1965,0.727,0.506,0.948,0.0,10,0.0904,-5.626,1,0.105,130.195,4,0.934,57,0
+78,7MRyJPksH3G2cXHN8UKYzP,American Girl,Tom Petty & The Heartbreakers,Tom Petty and the Heartbreakers,214733,1976-11-09,0.448,0.55,0.824,0.000127,2,0.366,-5.988,1,0.0334,114.512,4,0.777,76,1
+79,1exUq8aG2OMbSeZeTwz06k,In-A-Gadda-Da-Vida - 2006 Remaster Full-Length,In-A-Gadda-Da-Vida,Iron Butterfly,1024133,1968-06-14,0.00577,0.548,0.452,0.375,0,0.192,-11.612,1,0.0343,120.127,4,0.5,51,0
+80,2OwVp843CshseouYgyj75O,Hollow Years,Falling into Infinity,Dream Theater,353866,1997-09-12,0.0523,0.517,0.559,2.09e-06,0,0.308,-7.291,1,0.027,76.648,4,0.172,45,0
+81,7GonnnalI2s19OCQO1J7Tf,Kickstart My Heart,Dr. Feelgood,Mötley Crüe,282653,1989,0.00125,0.359,0.981,0.00236,7,0.284,-3.622,0,0.303,178.98,4,0.271,3,0
+82,2eB7JqIY4hTTSz31h6bjwR,Through The Fire And Flames,Inhuman Rampage,DragonForce,439120,2006-01-09,0.00152,0.153,0.953,0.0062,0,0.366,-4.74,0,0.122,199.892,4,0.14,20,0
+83,51TG9W3y9qyO8BY5RXKgnZ,Symphony Of Destruction,Countdown To Extinction (Expanded Edition - Remastered),Megadeth,246733,1992-07-14,0.000805,0.61,0.891,0.0928,4,0.0657,-5.452,0,0.0587,139.903,4,0.51,70,0
+84,28TcG73tbc4iGrGBFjiBnR,Kings of Metal,Kings of Metal,Manowar,223866,1988-11-01,0.000117,0.575,0.881,2.69e-05,9,0.147,-13.012,1,0.0357,132.127,4,0.699,61,0
+85,1aDNYyeU62BuQsBAY18i48,Stargazer,Rising,Rainbow,506160,1976-01-01,0.00374,0.166,0.948,0.0131,11,0.769,-8.503,0,0.0631,177.495,4,0.476,57,0
+86,4u7EnebtmKWzUH433cf5Qv,Bohemian Rhapsody - Remastered 2011,A Night At The Opera (2011 Remaster),Queen,354320,1975-11-21,0.271,0.414,0.404,0.0,0,0.3,-9.928,0,0.0499,71.105,4,0.224,82,1
+87,5CPXR6lDTvngxtmMZxnWmC,Pull Me Under,Images and Words,Dream Theater,493933,1992-06-30,0.000579,0.532,0.941,0.0527,9,0.15,-9.025,1,0.0465,102.198,4,0.278,62,0
+88,7HKRWMTErKh56EIBeFcmdf,Seize the Day,City of Evil,Avenged Sevenfold,334066,2005-06-06,0.0168,0.393,0.802,0.0,5,0.193,-4.499,1,0.0367,140.101,4,0.338,67,0
+89,7fcfNW0XxTWlwVlftzfDOR,Walk,Vulgar Display of Power,Pantera,315120,1992-02-21,0.000155,0.43,0.704,0.00221,1,0.0933,-8.008,0,0.0804,118.242,4,0.703,77,1
+90,3cwDSDzTiWr5H5xMQhQ6Mx,Du hast,Sehnsucht,Rammstein,234226,1997-08-25,0.00369,0.64,0.922,0.055,9,0.332,-6.283,0,0.0385,125.105,4,0.716,0,0
+91,0lCwaZYSRy6q0jLmnYiQxi,Laid to Rest,Ashes Of The Wake,Lamb of God,230226,2004-08-30,0.000216,0.359,0.959,0.00343,1,0.435,-3.685,1,0.104,103.038,3,0.158,0,0
+92,2aIB1CdRRG7YLBu9hNw9nR,The Beautiful People,Antichrist Superstar,Marilyn Manson,218826,1996,0.000779,0.621,0.834,0.456,10,0.0611,-10.068,0,0.0557,143.973,4,0.937,74,0
+93,6ursmCnbc9oDRGa2yHKkoZ,Roots Bloody Roots,Roots,Sepultura,212253,1996-02-20,0.000337,0.428,0.874,0.0419,4,0.311,-6.664,0,0.128,119.708,4,0.261,66,0
+94,5sFDReWLrZHLFZFjHsjUTS,Would? (2022 Remaster),Dirt (2022 Remaster),Alice In Chains,206773,1992-09-29,0.000327,0.305,0.833,2.36e-05,6,0.091,-7.981,1,0.0398,100.675,4,0.586,76,1
+95,2EoOZnxNgtmZaD8uUmz2nD,Black Hole Sun,Superunknown (Deluxe Edition),Soundgarden,318586,1994-03-09,0.000217,0.35,0.828,0.000161,6,0.0774,-5.373,1,0.041,105.435,4,0.147,78,1
+96,1p50Ir1Hm6Sa1urjaLGi7L,Bring The Noise,Attack Of The Killer B's,Anthrax,211786,1991-01-01,0.00086,0.601,0.831,0.0,2,0.102,-8.582,1,0.17,120.962,4,0.296,55,0
+97,1hlveB9M6ijHZRbzZ2teyh,We're Not Gonna Take It,Stay Hungry,Twisted Sister,219666,1984-05-10,0.0127,0.502,0.924,0.0,4,0.162,-6.299,1,0.0503,149.186,4,0.922,74,0
+98,3QZ7uX97s82HFYSmQUAN1D,Tom Sawyer,Moving Pictures (2011 Remaster),Rush,276880,1981-02-12,0.00145,0.536,0.901,0.0186,9,0.06,-7.211,1,0.0374,87.559,4,0.666,72,0
+99,0PdM2a6oIjqepoEfcJo0RO,Pour Some Sugar On Me - Remastered 2017,Hysteria (Super Deluxe),Def Leppard,267306,1987-08-03,0.00211,0.267,0.953,0.0,1,0.283,-4.899,0,0.096,84.989,4,0.568,76,1

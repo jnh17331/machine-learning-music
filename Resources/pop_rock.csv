@@ -1,0 +1,101 @@
+,song_id,song_name,album,artist,duration(ms),release_date,acousticness,danceability,energy,insturmentalness,key,liveness,loudness,mode,spechiness,tempo,time_signature,valence,popularity,binary_popularity
+0,494OU6M7NOf4ICYb4zWCf5,Sugar,V (Deluxe),Maroon 5,235493,2015-05-18,0.0591,0.748,0.788,0.0,1,0.0863,-7.055,1,0.0334,120.076,4,0.884,59,0
+1,5edBgVtRD0fvWk140Sl21T,Counting Stars,Native,OneRepublic,257266,2013-01-01,0.0603,0.662,0.71,0.0,1,0.119,-4.945,0,0.0364,121.979,4,0.465,22,0
+2,0tKcYR2II1VCQWT79i5NrW,Thunder,Evolve,Imagine Dragons,187146,2017-06-23,0.00683,0.6,0.81,0.21,0,0.155,-4.749,1,0.0479,167.88,4,0.298,22,0
+3,1mKXFLRA179hdOWQBwUk9e,Just Give Me a Reason,The Truth About Love,P!nk,242733,2012-09-18,0.346,0.778,0.547,0.000302,2,0.132,-7.273,1,0.0489,95.002,4,0.441,82,1
+4,7AK0yeohL3m0N6l7GgzJhE,I Want,I Want,Hurricane on Saturn,193100,2023-04-18,0.0035,0.547,0.958,7.96e-06,9,0.132,-2.448,0,0.121,149.979,4,0.452,40,0
+5,79UJTjTabqsQUhLkTJlSit,What's Up?,90s Pop Hits,Various Artists,292162,2021-02-05,0.161,0.565,0.564,0.0,2,0.114,-10.044,1,0.0292,134.358,4,0.454,39,0
+6,4cluDES4hQEUhmXj6TXkSo,What Makes You Beautiful,Up All Night,One Direction,199986,2012-05-25,0.009,0.726,0.787,0.0,4,0.0596,-2.494,1,0.0737,124.99,4,0.888,85,1
+7,79cuOz3SPQTuFrp8WgftAu,There's Nothing Holdin' Me Back,Illuminate (Deluxe),Shawn Mendes,199440,2017-04-20,0.381,0.857,0.8,0.0,2,0.0913,-4.035,1,0.0583,121.996,4,0.966,0,0
+8,5C0LFQARavkPpn7JgA4sLk,Every Breath You Take - Remastered 2003,Synchronicity (Remastered),The Police,253250,1983-06-01,0.543,0.82,0.452,0.00294,1,0.0701,-9.796,1,0.0348,117.401,4,0.74,0,0
+9,5Ohxk2dO5COHF1krpoPigN,Sign of the Times,Harry Styles,Harry Styles,340706,2017-05-12,0.0275,0.516,0.595,0.0,5,0.109,-4.63,1,0.0313,119.972,4,0.222,84,1
+10,7vWOMxvGXXaLKbhqBovoIV,The Scientist,Dinner Party Anthems,Various Artists,309600,2021-03-26,0.731,0.557,0.442,1.46e-05,5,0.11,-7.224,1,0.0243,146.277,4,0.213,32,0
+11,2Oehrcv4Kov0SuIgWyQY9e,Demons,Night Visions (Deluxe),Imagine Dragons,175200,2012-09-04,0.202,0.327,0.71,9e-05,3,0.28,-2.928,1,0.0547,179.561,4,0.416,22,0
+12,7a86XRg84qjasly9f6bPSD,We Are Young (feat. Janelle Monáe),Some Nights,fun.,250626,2012-02-21,0.02,0.378,0.638,7.66e-05,10,0.0849,-5.576,1,0.075,184.086,4,0.735,75,1
+13,6cpk00i5TxCqSeqNi2HuIe,One More Night,Overexposed Track By Track,Maroon 5,219546,2012-01-01,0.0558,0.716,0.821,0.0,5,0.0844,-3.435,0,0.0314,92.997,4,0.618,78,1
+14,2K87XMYnUMqLcX3zvtAF4G,Drag Me Down,Made In The A.M. (Deluxe Edition),One Direction,192120,2015-11-13,0.109,0.73,0.703,0.0,0,0.0657,-5.672,0,0.0369,138.113,4,0.595,80,1
+15,3ovjw5HZZv43SxTwApooCM,Wind Of Change,Crazy World,Scorpions,312360,1990-01-01,0.315,0.452,0.524,0.0,0,0.103,-10.108,1,0.0351,151.505,4,0.246,80,1
+16,5PsUB0ISfQxRLhF5DmI5Ks,Don't Speak,Tragic Kingdom,No Doubt,263000,1995-10-10,0.24,0.522,0.707,2.04e-05,5,0.156,-7.113,0,0.0354,76.05,4,0.572,0,0
+17,7wuJGgpTNzbUyn26IOY6rj,Total Eclipse of the Heart,The Very Best of Bonnie Tyler,Bonnie Tyler,267360,2009-03-26,0.145,0.431,0.723,0.0,8,0.374,-5.887,1,0.0568,130.141,4,0.19,79,1
+18,1OOtq8tRnDM8kG2gqUPjAj,Beat It,Thriller 25 Super Deluxe Edition,Michael Jackson,258040,2008-02-08,0.0495,0.776,0.867,7.92e-06,3,0.197,-3.704,0,0.0479,138.827,4,0.918,78,1
+19,3AJwUDP919kvQ9QcozQPxg,Yellow,Parachutes,Coldplay,266773,2000-07-10,0.00239,0.429,0.661,0.000121,11,0.234,-7.227,1,0.0281,173.372,4,0.285,90,1
+20,7F3uo3304R2CTvOseU3H7u,Whatever It Takes,Evolve,Imagine Dragons,201240,2017-06-23,0.0428,0.673,0.667,0.0,1,0.127,-4.977,1,0.0312,134.938,4,0.536,0,0
+21,1Vixb2G70s0J2Irf6hi8VE,Payphone,Sing Along Bangers,Various Artists,222706,2021-06-11,0.0114,0.699,0.801,0.0,11,0.327,-4.526,1,0.0342,110.014,4,0.618,59,0
+22,6WrUT7FOAlDscRWU7ndmyd,Viva La Vida,Viva La Vida,Coldplay,242373,2008-06-12,0.0954,0.486,0.617,3.23e-06,5,0.109,-7.115,0,0.0287,138.015,4,0.417,48,0
+23,5T7ZFtCcOgkpjxcuaeZbw0,Best Song Ever,Midnight Memories (Deluxe),One Direction,200106,2013-11-25,0.0227,0.652,0.877,0.0,1,0.0789,-2.986,1,0.0465,118.491,4,0.486,77,1
+24,0zC18tC8mqlD9NPzZescWR,She Will Be Loved - Radio Mix,Whatta Man,Various Artists,257825,2021-04-23,0.0588,0.699,0.71,0.0,0,0.134,-5.525,0,0.0295,102.06,4,0.557,30,0
+25,5G2c6FsfTzgYUzageCmfXY,One Thing,Up All Night,One Direction,197600,2012-05-25,0.00233,0.713,0.718,0.0,2,0.0838,-3.806,1,0.0278,126.999,4,0.656,74,0
+26,0vg4WnUWvze6pBOJDTq99k,You're Beautiful,Back to Bedlam,James Blunt,209493,2005-08-08,0.633,0.675,0.479,1.76e-05,0,0.088,-9.87,0,0.0278,81.998,4,0.454,77,1
+27,5xEM5hIgJ1jjgcEBfpkt2F,Complicated,Let Go,Avril Lavigne,244506,2002-06-04,0.0572,0.585,0.776,7.74e-06,5,0.3,-5.898,1,0.0459,77.987,4,0.427,80,1
+28,5dRQUolXAVX3BbCiIxmSsf,Your Love,Super Hits,The Outfield,221840,1985,0.103,0.555,0.757,1.16e-06,1,0.0631,-7.868,0,0.0601,129.607,4,0.582,74,0
+29,5YJfDkHLZrY0Lgu1z2jvgf,Fix You,"I Hate You, I Love You",Various Artists,295533,2021-02-12,0.164,0.209,0.417,0.00196,3,0.113,-8.74,1,0.0338,138.178,4,0.124,35,0
+30,2afCBiru10AFckfOa49wIa,You & I,Midnight Memories (Deluxe),One Direction,237933,2013-11-25,0.22,0.574,0.329,0.0,1,0.0986,-6.829,1,0.0274,130.993,4,0.356,76,1
+31,3xqF04FdMK7gpIPG3SPFpY,It's Time,Night Visions (Deluxe),Imagine Dragons,237986,2012-09-04,0.0168,0.657,0.885,0.0,2,0.147,-4.695,1,0.0344,105.011,4,0.869,0,0
+32,1jF7IL57ayN4Ity3jQqGu0,Try,The Truth About Love,P!nk,247906,2012-09-18,0.00144,0.674,0.628,0.0,2,0.0944,-7.079,1,0.03,103.998,4,0.552,79,1
+33,7wMq5n8mYSKlQIGECKUgTX,Hall of Fame,#3 Deluxe Version,The Script,202533,2012-09-10,0.0654,0.421,0.873,0.0,10,0.123,-4.343,1,0.0564,84.786,4,0.629,82,1
+34,3NLnwwAQbbFKcEcV8hDItk,Perfect,Made In The A.M. (Deluxe Edition),One Direction,230333,2015-11-13,0.0598,0.647,0.823,0.0,2,0.119,-5.231,1,0.0762,99.933,4,0.396,80,1
+35,54JKnDB3CzVu8wNAOM27BI,When You're Gone,The Best Damn Thing (Expanded Edition),Avril Lavigne,240493,2007-04-17,0.191,0.457,0.719,0.0,4,0.228,-3.921,0,0.0323,142.034,4,0.168,69,0
+36,5qqabIl2vWzo9ApSC317sa,Wonderwall - Remastered,(What's The Story) Morning Glory? [Remastered],Oasis,258773,1995-10-02,0.000452,0.378,0.896,0.0,2,0.194,-4.066,1,0.0407,174.302,4,0.469,80,1
+37,1NCuYqMc8hKMb4cpNTcJbD,Another Day in Paradise - 2016 Remaster,...But Seriously (Deluxe Edition),Phil Collins,322133,1989-11-20,0.736,0.78,0.565,0.00269,3,0.063,-7.32,0,0.0306,101.967,4,0.365,76,1
+38,1Jj6MF0xDOMA3Ut2Z368Bx,Time After Time,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),Cyndi Lauper,243066,2014-03-28,0.576,0.724,0.436,1.19e-06,0,0.0908,-9.321,1,0.0282,130.439,4,0.324,71,0
+39,4JAf3CkbJ2RdeX0SsKr3mF,Wish You Were Here,Goodbye Lullaby,Avril Lavigne,225680,2011-03-04,0.0337,0.456,0.862,0.0,4,0.172,-3.818,1,0.05,165.991,4,0.337,0,0
+40,73Qlt0XuhuYzEigjitm2ze,Cool for the Summer,Confident (Deluxe Edition),Demi Lovato,214739,2015-01-01,0.00504,0.587,0.62,0.000181,5,0.0762,-5.612,0,0.0366,114.08,4,0.286,0,0
+41,19qn6oU2t0E72ENA0aWNsX,So What,Funhouse: The Tour Edition,P!nk,215160,2008,0.000304,0.535,0.888,2.17e-06,11,0.324,-3.1,1,0.0446,126.011,4,0.451,0,0
+42,2Bs4jQEGMycglOfWPBqrVG,Steal My Girl,FOUR (Deluxe),One Direction,228133,2014-11-17,0.00433,0.536,0.768,0.0,10,0.114,-5.948,0,0.0347,77.217,4,0.545,80,1
+43,78TnMTAFmWUWWCgNXR7D3K,Listen To Your Heart,Look Sharp! (2009 Version),Roxette,328093,1988-10-19,0.108,0.539,0.583,0.0,1,0.111,-4.935,0,0.0275,86.063,4,0.337,0,0
+44,3zYufmyv6HOuiHn1eMR6Ja,Desert Rose,Brand New Day,Sting,285960,1999-01-01,0.011,0.586,0.659,0.0,0,0.106,-7.92,0,0.0304,111.989,4,0.147,65,0
+45,2vEQ9zBiwbAVXzS2SOxodY,Nothing's Gonna Stop Us Now,No Protection,Starship,270333,1987,0.0298,0.643,0.801,0.0,6,0.0719,-4.921,1,0.0228,95.988,4,0.534,0,0
+46,4AFwnrH5atiJoAd5xS5QtR,The Man Who Can't Be Moved,The Script,The Script,241373,2008-07-14,0.434,0.605,0.629,0.0,10,0.097,-5.051,1,0.0278,99.893,4,0.308,66,0
+47,4w1lzcaoZ1IC2K5TwjalRP,A Thousand Miles,Be Not Nobody,Vanessa Carlton,237493,2002-04-30,0.323,0.56,0.825,0.0,11,0.161,-3.862,1,0.0379,94.931,4,0.268,78,1
+48,46RVKt5Edm1zl0rXhPJZxz,Down Under,The Best Of Men At Work: Contraband,Men At Work,220866,1996-02-01,0.0485,0.746,0.79,0.0261,11,0.0534,-4.7,0,0.0257,107.231,4,0.891,71,0
+49,5rwdhliMmo0aAQ08vU0AOZ,Maps,V (Deluxe),Maroon 5,189960,2015-05-18,0.0205,0.742,0.713,0.0,1,0.059,-5.522,0,0.0303,120.032,4,0.879,58,0
+50,2Ms33RTRCT6gArrpcrPxmo,Feel,Escapology,Robbie Williams,263866,2002,0.0145,0.599,0.732,0.000467,5,0.143,-6.843,1,0.026,97.997,4,0.295,74,0
+51,0n2SEXB2qoRQg171q7XqeW,Smooth,Supernatural (Remastered),Santana,294986,1999-06-15,0.16,0.609,0.923,4.73e-06,9,0.295,-3.908,1,0.0338,115.996,4,0.961,72,0
+52,7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,Born In The U.S.A.,Bruce Springsteen,241306,1984-06-04,0.0115,0.527,0.942,0.0,1,0.188,-5.64,0,0.0366,148.723,4,0.495,80,1
+53,4q5cQyhhUW5X0PQVzA8VsG,Mr. Jones,August And Everything After,Counting Crows,272506,1993-01-01,0.173,0.58,0.814,1.8e-06,0,0.246,-6.582,1,0.0363,141.606,4,0.722,0,0
+54,3RlsVPIIs5KFhLFhxZ4iDF,Rockstar,All the Right Reasons (Walmart Exclusive Edition),Nickelback,252040,2005-09-26,0.0459,0.616,0.91,0.0,0,0.343,-3.004,1,0.0386,144.072,4,0.693,71,0
+55,2hKdd3qO7cWr2Jo0Bcs0MA,Drops of Jupiter (Tell Me),Drops Of Jupiter,Train,259933,2001-03-27,0.153,0.481,0.638,0.0,0,0.154,-5.862,1,0.0276,79.064,4,0.497,80,1
+56,0yac0FPhLRH9i9lOng3f81,Everybody's Changing,Hopes And Fears,Keane,215880,2004-05-10,0.0014,0.517,0.839,0.000365,0,0.108,-3.521,1,0.0287,94.015,4,0.416,75,1
+57,6ECp64rv50XVz93WvxXMGF,This Love,Songs About Jane: 10th Anniversary Edition,Maroon 5,206200,2002,0.0525,0.712,0.862,0.0,5,0.093,-4.612,0,0.0378,95.051,4,0.809,82,1
+58,2TxCwUlqaOH3TIyJqGgR91,Mamma Mia,Abba,ABBA,213266,1975,0.295,0.749,0.748,0.000443,2,0.469,-7.011,1,0.0323,137.547,4,0.827,78,1
+59,1jyKRuaRzjZdfYL72autvr,Don't You (Forget About Me) - Remastered 2001,Forty: The Best Of Simple Minds 1979-2019,Simple Minds,260773,2019-11-01,0.0831,0.67,0.75,0.0566,2,0.293,-8.606,1,0.0267,111.266,4,0.688,19,0
+60,1JLn8RhQzHz3qDqsChcmBl,I Want to Know What Love Is - 1999 Remaster,Agent Provocateur,Foreigner,304786,1984-12-12,0.193,0.477,0.471,1.76e-06,6,0.131,-10.036,1,0.0277,81.204,4,0.423,81,1
+61,3FeVmId7tL5YN8B7R3imoM,My Universe,My Universe,Coldplay,228000,2021-09-24,0.00813,0.588,0.701,0.0,9,0.2,-6.39,1,0.0402,104.988,4,0.443,79,1
+62,1Jaah2tmN9Hv81A87KZ1MU,Torn,Left Of The Middle,Natalie Imbruglia,244666,1997-11-10,0.0647,0.575,0.886,0.000187,5,0.709,-5.182,1,0.034,96.31,4,0.609,78,1
+63,5wLXJJXY2A2FTwGhbTPeDe,Too Much Heaven,Spirits Having Flown,Bee Gees,296000,1979-01-01,0.43,0.573,0.422,0.000102,6,0.718,-13.166,1,0.0411,82.982,4,0.329,0,0
+64,18AXbzPzBS8Y3AkgSxzJPb,In The Air Tonight - 2015 Remastered,Face Value (Deluxe Editon),Phil Collins,336453,1981-01-01,0.551,0.446,0.239,4.1e-06,0,0.0697,-13.945,1,0.0316,189.507,4,0.298,78,1
+65,1jlG3KJ3gdYmhfuySFfpO1,I'm with You,Let Go,Avril Lavigne,223066,2002-06-04,0.08,0.457,0.406,0.0,9,0.117,-7.462,1,0.0291,151.95,3,0.208,73,0
+66,0HqZX76SFLDz2aW8aiqi7G,Bones,Bones,Imagine Dragons,165264,2022-03-11,0.0206,0.773,0.742,0.0,5,0.0754,-3.678,0,0.046,114.071,4,0.571,82,1
+67,4kbz7rHVbyjKasuuqelccQ,White Flag,Life For Rent,Dido,240040,2003-09-29,0.327,0.512,0.525,3.3e-06,5,0.081,-6.823,1,0.0401,169.951,4,0.294,58,0
+68,0CsM8VGDi38kusMv3pxyj1,True - Single Edit,True - The Digital E.P.,Spandau Ballet,329146,2008-04-25,0.459,0.742,0.533,0.148,0,0.064,-9.098,1,0.0288,97.395,4,0.391,70,0
+69,3ZHfX6kbiY7JVsB63lLOLu,The Only Exception,Brand New Eyes,Paramore,267653,2009-09-22,0.144,0.452,0.563,0.0,4,0.143,-6.607,1,0.0272,137.715,3,0.209,64,0
+70,4oGTdOClZUxcM2H3UmXlwL,Ironic,Jagged Little Pill,Alanis Morissette,225933,1995-06-09,0.246,0.495,0.595,0.0,11,0.236,-7.57,1,0.0443,85.341,4,0.392,58,0
+71,4aKIs5t9TqP59btlCGPrgw,Maneater,H2O,Daryl Hall & John Oates,271893,1982,0.0351,0.727,0.685,4.43e-05,11,0.0973,-7.159,0,0.0398,88.75,4,0.812,0,0
+72,6avxJ3kn6rkPE21X4fyg7q,Don't Dream It's Over,Crowded House,Crowded House,236933,1986-01-01,0.0158,0.457,0.41,2.96e-05,8,0.0714,-17.263,1,0.037,81.016,4,0.535,0,0
+73,1M2nd8jNUkkwrc1dgBPTJz,Angels,Life Thru A Lens,Robbie Williams,265000,1997-01-01,0.156,0.429,0.594,4.95e-06,4,0.1,-6.251,1,0.0277,150.22,4,0.236,75,1
+74,5zA8vzDGqPl2AzZkEYQGKh,Uptown Girl,An Innocent Man,Billy Joel,197706,1983-08-08,0.0755,0.701,0.944,0.0,4,0.601,-2.986,1,0.0455,128.993,4,0.792,81,1
+75,3bYCGWnZdLQjndiKogqA3G,Summer Of '69,Reckless (30th Anniversary / Deluxe Edition),Bryan Adams,216053,1984-11-05,0.0191,0.507,0.843,0.0,2,0.08,-6.137,1,0.0379,139.136,4,0.704,0,0
+76,4fouWK6XVHhzl78KzQ1UjL,abcdefu,abcdefu,GAYLE,168601,2021-08-13,0.299,0.695,0.54,0.0,4,0.367,-5.692,1,0.0493,121.932,4,0.415,81,1
+77,4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",OneRepublic,148485,2022-05-13,0.0826,0.704,0.797,0.000745,0,0.0546,-5.927,1,0.0475,139.994,4,0.825,90,1
+78,6A8OnjnpShshNpcqWtZRjr,Papa Don't Preach,True Blue,Madonna,268533,1986-06-30,0.343,0.833,0.934,7.55e-06,5,0.0521,-3.243,0,0.0313,121.879,4,0.964,65,0
+79,0YPXkQthLWrhNGoKTbwCJ8,(I Just) Died In Your Arms,The Best Of Cutting Crew,Cutting Crew,278626,1993-01-01,0.0119,0.632,0.727,7.64e-05,11,0.0678,-11.209,0,0.0438,124.919,4,0.499,65,0
+80,4FC7GMnGwYeAjuvC83Srbs,Dirty Diana - 2012 Remaster,Scream,Michael Jackson,280946,2017-09-27,0.178,0.735,0.801,0.000408,3,0.324,-4.525,1,0.0437,131.425,4,0.331,53,0
+81,2W2ieVidLIx9TDvxu0ZT6F,The Best - Edit,Simply the Best,Tina Turner,253592,1991-01-01,0.0341,0.68,0.701,0.00479,0,0.114,-10.46,1,0.0275,103.789,4,0.824,63,0
+82,2gQaQUhDCNGfBVXTvxAmXQ,Shout,Songs From The Big Chair,Tears For Fears,393666,1985-02-25,0.174,0.511,0.942,1.87e-05,0,0.139,-10.407,1,0.0429,97.909,4,0.498,74,0
+83,63nVsCAdxu9OdeRhe58wiE,Broken Wings,Welcome To The Real World,Mr. Mister,345840,1985-06-01,0.115,0.286,0.473,4.23e-05,1,0.071,-15.646,0,0.0388,99.233,4,0.449,0,0
+84,2Jmo3B3MXTKddplyXDBZwY,To the Moon & Back,Savage Garden,Savage Garden,341066,1997-03-04,0.0205,0.584,0.76,7.25e-06,0,0.1,-7.369,0,0.0359,104.101,4,0.325,0,0
+85,5WwqdeavrQrbeAMDxGawse,Can't Fight This Feeling,Wheels Are Turnin',REO Speedwagon,294773,1984-11-05,0.155,0.408,0.48,1.82e-05,9,0.0877,-11.017,1,0.0266,156.344,4,0.19,74,0
+86,4BGJSbB5rAcg4pNzD4gfxU,Tiny Dancer,Madman Across The Water,Elton John,377093,1971-11-05,0.396,0.415,0.425,0.000407,0,0.143,-11.082,1,0.0278,145.234,4,0.281,0,0
+87,4a8ZMNLB75047bY2I7oABt,Living Next Door to Alice,The Original Smokie Gold,Smokie,207693,1975,0.107,0.591,0.396,0.0,9,0.248,-14.753,1,0.0371,126.091,4,0.781,53,0
+88,1Cwsd5xI8CajJz795oy4XF,You Get What You Give,Maybe You've Been Brainwashed Too,New Radicals,300773,1998-01-01,0.17,0.621,0.901,0.0,2,0.0875,-5.396,1,0.0302,113.967,4,0.744,77,1
+89,0KM2y796j63t5RHhvRUxld,"Relax, Take It Easy",Life In Cartoon Motion,MIKA,270000,2006-01-01,0.058,0.694,0.694,0.0126,6,0.129,-8.21,0,0.0328,121.876,4,0.608,68,0
+90,3EXrtClWmgsM7dw75Mw2M1,When You're Gone,To The Faithful Departed,The Cranberries,296200,1996-04-30,0.351,0.454,0.524,4.32e-05,3,0.0691,-7.128,1,0.0267,186.762,3,0.348,58,0
+91,2T3jgoAMbBXiMMD8pSc6QL,This Is The Life,This Is The Life (eDeluxe),Amy Macdonald,184413,2007-01-01,0.259,0.628,0.882,0.0,1,0.065,-5.024,0,0.0323,95.083,4,0.853,79,1
+92,1gb5sUe1CuRBuT8twq8uhw,Walk Like an Egyptian,80s 100 Hits,Various Artists,192813,2010-02-26,0.0117,0.716,0.828,2.1e-06,11,0.301,-13.065,1,0.104,103.155,4,0.771,46,0
+93,5YjKdeES9QRJ8NmF4Xc8pV,All I Wanna Do Is Make Love To You,Brigade,Heart,310893,1990-03-25,0.16,0.626,0.746,0.0,7,0.0618,-8.832,1,0.0282,102.896,4,0.8,67,0
+94,5jvgec3P4jyoZUPTy2pWDR,Line Without a Hook,Montgomery Ricky,Ricky Montgomery,249586,2016-04-08,0.262,0.432,0.652,0.0,8,0.258,-4.969,1,0.0285,190.028,3,0.507,0,0
+95,3gdewACMIVMEWVbyb8O9sY,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Honky Chateau,Elton John,281613,1972-05-19,0.432,0.601,0.532,6.25e-06,10,0.0925,-9.119,1,0.0286,136.571,4,0.341,82,1
+96,5sf1wqBZsHkpy7dPnDb7aD,All the Love in the World,Play Deep,The Outfield,212240,1985-06-29,0.0403,0.624,0.531,1.21e-06,4,0.0914,-13.23,1,0.0408,128.08,4,0.743,3,0
+97,0roZruGPu7QBsKNCfPQOd4,House of Memories,House Of Memories,Panic! At The Disco,208703,2022-10-28,0.00301,0.445,0.836,0.0,11,0.047,-4.99,0,0.0356,109.846,4,0.481,45,0
+98,7aQjPecQdIuNd1sz3KCDhD,Lovefool,First Band On The Moon (Remastered),The Cardigans,193953,1996-01-01,0.0344,0.704,0.636,0.0,9,0.35,-6.029,1,0.0252,111.845,4,0.89,81,1
+99,3OZm904eH69Pad3GgiMYNr,Kiss Me (There She Goes Version),Best of Sixpence None the Richer,Sixpence None The Richer,196690,2020-03-10,0.0631,0.485,0.607,0.00407,3,0.149,-12.721,1,0.0398,99.922,4,0.31,0,0
